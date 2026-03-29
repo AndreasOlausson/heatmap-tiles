@@ -68,3 +68,7 @@ The root app reads tiles from `VITE_TILE_PREVIEW_ORIGIN` and falls back to `http
 ## More Detail
 
 The generator has its own detailed documentation in [tile-generator/README.md](./tile-generator/README.md), including scenario structure, supported adapters, render modes, and tile generation commands.
+
+## License
+
+This project is licensed under Apache-2.0. See [LICENSE](./LICENSE) and [NOTICE](./NOTICE).
