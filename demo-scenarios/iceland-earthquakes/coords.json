@@ -1,0 +1,4634 @@
+[
+  {
+    "id": "us6000m0uz",
+    "latitude": 64.6254,
+    "longitude": -17.7212,
+    "value": 4.4
+  },
+  {
+    "id": "us6000m15h",
+    "latitude": 64.0461,
+    "longitude": -22.1765,
+    "value": 4.1
+  },
+  {
+    "id": "us7000laaw",
+    "latitude": 64.0831,
+    "longitude": -22.5073,
+    "value": 4.7
+  },
+  {
+    "id": "us6000lnty",
+    "latitude": 64.0263,
+    "longitude": -22.2952,
+    "value": 4.2
+  },
+  {
+    "id": "us7000la96",
+    "latitude": 63.9601,
+    "longitude": -22.5024,
+    "value": 4.6
+  },
+  {
+    "id": "us6000lnlg",
+    "latitude": 64.0376,
+    "longitude": -22.5216,
+    "value": 4.5
+  },
+  {
+    "id": "us6000lnlf",
+    "latitude": 63.9786,
+    "longitude": -22.3633,
+    "value": 4.4
+  },
+  {
+    "id": "us7000la8n",
+    "latitude": 63.9718,
+    "longitude": -22.4278,
+    "value": 4.6
+  },
+  {
+    "id": "us6000lnls",
+    "latitude": 63.9254,
+    "longitude": -22.2161,
+    "value": 4.2
+  },
+  {
+    "id": "us6000lnlp",
+    "latitude": 63.9711,
+    "longitude": -22.4497,
+    "value": 5
+  },
+  {
+    "id": "us6000lnlq",
+    "latitude": 63.9602,
+    "longitude": -22.4071,
+    "value": 4.6
+  },
+  {
+    "id": "us6000lnlb",
+    "latitude": 63.9836,
+    "longitude": -21.9437,
+    "value": 4.5
+  },
+  {
+    "id": "us7000la7g",
+    "latitude": 63.9761,
+    "longitude": -22.4196,
+    "value": 4.8
+  },
+  {
+    "id": "us6000lnm3",
+    "latitude": 64.0747,
+    "longitude": -22.1879,
+    "value": 4.6
+  },
+  {
+    "id": "us6000lnl9",
+    "latitude": 64.0499,
+    "longitude": -22.481,
+    "value": 4.4
+  },
+  {
+    "id": "us6000lnl8",
+    "latitude": 63.9535,
+    "longitude": -22.2151,
+    "value": 4.5
+  },
+  {
+    "id": "us7000la6z",
+    "latitude": 63.9846,
+    "longitude": -22.3675,
+    "value": 4.9
+  },
+  {
+    "id": "us7000la6r",
+    "latitude": 63.9865,
+    "longitude": -22.4535,
+    "value": 4.6
+  },
+  {
+    "id": "us6000lnl3",
+    "latitude": 63.9717,
+    "longitude": -22.4572,
+    "value": 4.6
+  },
+  {
+    "id": "us6000lnln",
+    "latitude": 64.0298,
+    "longitude": -22.1212,
+    "value": 4.5
+  },
+  {
+    "id": "us7000la6q",
+    "latitude": 63.8421,
+    "longitude": -22.5292,
+    "value": 4.7
+  },
+  {
+    "id": "us6000lnl6",
+    "latitude": 64.1161,
+    "longitude": -22.1743,
+    "value": 4.2
+  },
+  {
+    "id": "us6000lnl2",
+    "latitude": 63.9341,
+    "longitude": -22.3674,
+    "value": 4.5
+  },
+  {
+    "id": "us6000lnlj",
+    "latitude": 64.0502,
+    "longitude": -22.2981,
+    "value": 4.5
+  },
+  {
+    "id": "us6000lnm5",
+    "latitude": 63.97,
+    "longitude": -22.2762,
+    "value": 4.5
+  },
+  {
+    "id": "us7000la6d",
+    "latitude": 63.9517,
+    "longitude": -22.346,
+    "value": 5.3
+  },
+  {
+    "id": "us7000la6l",
+    "latitude": 64.005,
+    "longitude": -22.6162,
+    "value": 4.5
+  },
+  {
+    "id": "us6000lnm9",
+    "latitude": 63.9824,
+    "longitude": -22.074,
+    "value": 4.6
+  },
+  {
+    "id": "us7000la69",
+    "latitude": 63.8898,
+    "longitude": -22.4083,
+    "value": 5.2
+  },
+  {
+    "id": "us6000lnl0",
+    "latitude": 64.0409,
+    "longitude": -22.2882,
+    "value": 4.5
+  },
+  {
+    "id": "us6000lnkz",
+    "latitude": 63.9866,
+    "longitude": -22.3063,
+    "value": 4.5
+  },
+  {
+    "id": "us6000lnky",
+    "latitude": 64.0253,
+    "longitude": -22.3619,
+    "value": 4.5
+  },
+  {
+    "id": "us6000lnlx",
+    "latitude": 64.0742,
+    "longitude": -21.9371,
+    "value": 4.4
+  },
+  {
+    "id": "us7000la5q",
+    "latitude": 64.1072,
+    "longitude": -22.5338,
+    "value": 4.8
+  },
+  {
+    "id": "us7000la5b",
+    "latitude": 63.9824,
+    "longitude": -22.3372,
+    "value": 4.8
+  },
+  {
+    "id": "us6000lnki",
+    "latitude": 63.9781,
+    "longitude": -22.2488,
+    "value": 4.1
+  },
+  {
+    "id": "us7000l9ri",
+    "latitude": 63.967,
+    "longitude": -22.3556,
+    "value": 4.4
+  },
+  {
+    "id": "us7000l9rj",
+    "latitude": 63.9726,
+    "longitude": -22.259,
+    "value": 4.3
+  },
+  {
+    "id": "us6000lncm",
+    "latitude": 64.0806,
+    "longitude": -22.3026,
+    "value": 4.3
+  },
+  {
+    "id": "us7000l9r3",
+    "latitude": 64.0761,
+    "longitude": -22.2404,
+    "value": 4.5
+  },
+  {
+    "id": "us7000l9r1",
+    "latitude": 63.945,
+    "longitude": -22.3542,
+    "value": 4.6
+  },
+  {
+    "id": "us7000l9qw",
+    "latitude": 63.9801,
+    "longitude": -22.188,
+    "value": 4.3
+  },
+  {
+    "id": "us7000l9mq",
+    "latitude": 63.9297,
+    "longitude": -22.1705,
+    "value": 4.4
+  },
+  {
+    "id": "us7000l8i0",
+    "latitude": 63.9573,
+    "longitude": -22.2647,
+    "value": 4.6
+  },
+  {
+    "id": "us7000l8hm",
+    "latitude": 63.9468,
+    "longitude": -20.3259,
+    "value": 4.5
+  },
+  {
+    "id": "us7000l8li",
+    "latitude": 64.0421,
+    "longitude": -22.1975,
+    "value": 4.2
+  },
+  {
+    "id": "us7000l66j",
+    "latitude": 63.9808,
+    "longitude": -22.4086,
+    "value": 4.6
+  },
+  {
+    "id": "us7000l661",
+    "latitude": 63.9058,
+    "longitude": -22.2997,
+    "value": 3.5
+  },
+  {
+    "id": "us7000l63e",
+    "latitude": 64.7362,
+    "longitude": -17.7358,
+    "value": 5.2
+  },
+  {
+    "id": "us6000lgmx",
+    "latitude": 64.5521,
+    "longitude": -18.0735,
+    "value": 4.1
+  },
+  {
+    "id": "us6000lcv0",
+    "latitude": 64.4897,
+    "longitude": -17.7682,
+    "value": 5
+  },
+  {
+    "id": "us7000ksxx",
+    "latitude": 64.6557,
+    "longitude": -17.7947,
+    "value": 4.3
+  },
+  {
+    "id": "us7000kt79",
+    "latitude": 63.7268,
+    "longitude": -18.9249,
+    "value": 4.3
+  },
+  {
+    "id": "us6000kzr9",
+    "latitude": 63.8655,
+    "longitude": -23.0716,
+    "value": 4.4
+  },
+  {
+    "id": "us6000kwex",
+    "latitude": 64.61,
+    "longitude": -17.351,
+    "value": 4.7
+  },
+  {
+    "id": "us6000kxvm",
+    "latitude": 64.632,
+    "longitude": -17.5816,
+    "value": 4.2
+  },
+  {
+    "id": "us6000kr82",
+    "latitude": 64.0461,
+    "longitude": -22.1636,
+    "value": 5.2
+  },
+  {
+    "id": "us6000kqzu",
+    "latitude": 64.0165,
+    "longitude": -22.0162,
+    "value": 4.4
+  },
+  {
+    "id": "us6000kqn0",
+    "latitude": 63.8685,
+    "longitude": -22.8633,
+    "value": 4.2
+  },
+  {
+    "id": "us6000kqmw",
+    "latitude": 63.8696,
+    "longitude": -22.5806,
+    "value": 4
+  },
+  {
+    "id": "us6000kqm4",
+    "latitude": 63.9122,
+    "longitude": -22.6431,
+    "value": 4.2
+  },
+  {
+    "id": "us6000kqd8",
+    "latitude": 64.1203,
+    "longitude": -22.129,
+    "value": 4.1
+  },
+  {
+    "id": "us6000kqcb",
+    "latitude": 63.9775,
+    "longitude": -22.0218,
+    "value": 4.1
+  },
+  {
+    "id": "us6000kqbu",
+    "latitude": 64.0083,
+    "longitude": -22.2079,
+    "value": 4.5
+  },
+  {
+    "id": "us7000kff1",
+    "latitude": 64.0176,
+    "longitude": -21.9781,
+    "value": 4.4
+  },
+  {
+    "id": "us6000kq9v",
+    "latitude": 64.0375,
+    "longitude": -22.0794,
+    "value": 4.5
+  },
+  {
+    "id": "us7000kfei",
+    "latitude": 64.0192,
+    "longitude": -22.0363,
+    "value": 4.4
+  },
+  {
+    "id": "us6000kxr3",
+    "latitude": 64.066,
+    "longitude": -21.8579,
+    "value": 4.4
+  },
+  {
+    "id": "us7000kfec",
+    "latitude": 64.0981,
+    "longitude": -21.9963,
+    "value": 4.4
+  },
+  {
+    "id": "us7000kfe4",
+    "latitude": 64.0616,
+    "longitude": -22.0766,
+    "value": 4.3
+  },
+  {
+    "id": "us6000kq6a",
+    "latitude": 64.02,
+    "longitude": -22.132,
+    "value": 4.5
+  },
+  {
+    "id": "us7000kfe3",
+    "latitude": 64.0095,
+    "longitude": -22.1412,
+    "value": 4.5
+  },
+  {
+    "id": "us7000kfe2",
+    "latitude": 64.3554,
+    "longitude": -21.7493,
+    "value": 4.4
+  },
+  {
+    "id": "us7000k508",
+    "latitude": 66.4833,
+    "longitude": -17.6882,
+    "value": 4.1
+  },
+  {
+    "id": "us6000k9fe",
+    "latitude": 63.6335,
+    "longitude": -19.5685,
+    "value": 4.5
+  },
+  {
+    "id": "us6000k9fi",
+    "latitude": 63.733,
+    "longitude": -19.1356,
+    "value": 4.3
+  },
+  {
+    "id": "us7000jwp0",
+    "latitude": 64.3976,
+    "longitude": -17.4681,
+    "value": 4
+  },
+  {
+    "id": "us6000k59v",
+    "latitude": 66.554,
+    "longitude": -19.1032,
+    "value": 4.4
+  },
+  {
+    "id": "us6000jqie",
+    "latitude": 64.6683,
+    "longitude": -17.6801,
+    "value": 5.2
+  },
+  {
+    "id": "us6000jn4b",
+    "latitude": 64.4746,
+    "longitude": -17.7887,
+    "value": 4
+  },
+  {
+    "id": "us7000j35a",
+    "latitude": 64.1598,
+    "longitude": -17.7896,
+    "value": 4.3
+  },
+  {
+    "id": "us6000ja4u",
+    "latitude": 63.8721,
+    "longitude": -18.891,
+    "value": 4.1
+  },
+  {
+    "id": "us7000imhw",
+    "latitude": 64.5682,
+    "longitude": -17.8155,
+    "value": 4.4
+  },
+  {
+    "id": "us7000ikpk",
+    "latitude": 65.1536,
+    "longitude": -16.4471,
+    "value": 4.3
+  },
+  {
+    "id": "us6000ivab",
+    "latitude": 63.687,
+    "longitude": -23.2428,
+    "value": 4.9
+  },
+  {
+    "id": "us6000iu76",
+    "latitude": 63.8067,
+    "longitude": -23.5058,
+    "value": 4.5
+  },
+  {
+    "id": "us6000iva7",
+    "latitude": 63.7677,
+    "longitude": -23.406,
+    "value": 4.2
+  },
+  {
+    "id": "us7000i9ai",
+    "latitude": 66.5723,
+    "longitude": -18.2098,
+    "value": 4.2
+  },
+  {
+    "id": "us6000iilu",
+    "latitude": 66.4669,
+    "longitude": -17.8436,
+    "value": 4.5
+  },
+  {
+    "id": "us6000iiij",
+    "latitude": 66.4602,
+    "longitude": -17.7654,
+    "value": 4.4
+  },
+  {
+    "id": "us6000iiev",
+    "latitude": 66.5182,
+    "longitude": -17.7749,
+    "value": 4.4
+  },
+  {
+    "id": "us7000i8ai",
+    "latitude": 66.4041,
+    "longitude": -17.9471,
+    "value": 4.5
+  },
+  {
+    "id": "us6000ii1w",
+    "latitude": 66.5374,
+    "longitude": -17.7536,
+    "value": 4.6
+  },
+  {
+    "id": "us6000ii1s",
+    "latitude": 66.5302,
+    "longitude": -17.75,
+    "value": 4.6
+  },
+  {
+    "id": "us6000ii1h",
+    "latitude": 66.5051,
+    "longitude": -17.8312,
+    "value": 5.2
+  },
+  {
+    "id": "us6000i7nx",
+    "latitude": 64.0984,
+    "longitude": -21.8236,
+    "value": 4.3
+  },
+  {
+    "id": "us6000i7hi",
+    "latitude": 64.3522,
+    "longitude": -17.5117,
+    "value": 4.1
+  },
+  {
+    "id": "us6000i7cg",
+    "latitude": 64.0567,
+    "longitude": -21.9282,
+    "value": 5
+  },
+  {
+    "id": "us6000i7bi",
+    "latitude": 63.9934,
+    "longitude": -22.0797,
+    "value": 4.8
+  },
+  {
+    "id": "us6000i73y",
+    "latitude": 64.0642,
+    "longitude": -22.1985,
+    "value": 4.5
+  },
+  {
+    "id": "us6000i73m",
+    "latitude": 63.9813,
+    "longitude": -22.3545,
+    "value": 4.2
+  },
+  {
+    "id": "us6000i73e",
+    "latitude": 63.9717,
+    "longitude": -22.2714,
+    "value": 4.2
+  },
+  {
+    "id": "us6000i73b",
+    "latitude": 63.9058,
+    "longitude": -22.1955,
+    "value": 4.4
+  },
+  {
+    "id": "us6000i70d",
+    "latitude": 63.955,
+    "longitude": -22.35,
+    "value": 5.4
+  },
+  {
+    "id": "us6000i9f1",
+    "latitude": 63.9935,
+    "longitude": -21.9436,
+    "value": 4.1
+  },
+  {
+    "id": "us6000i94k",
+    "latitude": 63.7008,
+    "longitude": -19.3391,
+    "value": 4.4
+  },
+  {
+    "id": "us7000ht53",
+    "latitude": 64.613,
+    "longitude": -17.6993,
+    "value": 4.8
+  },
+  {
+    "id": "us7000ht50",
+    "latitude": 64.6655,
+    "longitude": -17.8621,
+    "value": 4.4
+  },
+  {
+    "id": "us7000hjs3",
+    "latitude": 64.6993,
+    "longitude": -20.4697,
+    "value": 4.5
+  },
+  {
+    "id": "us7000hd8i",
+    "latitude": 64.4201,
+    "longitude": -17.8396,
+    "value": 4.7
+  },
+  {
+    "id": "us6000hl5m",
+    "latitude": 64.1152,
+    "longitude": -21.3296,
+    "value": 4.5
+  },
+  {
+    "id": "us7000gmwz",
+    "latitude": 64.6051,
+    "longitude": -17.7978,
+    "value": 4.9
+  },
+  {
+    "id": "us7000gj4g",
+    "latitude": 63.7848,
+    "longitude": -19.0401,
+    "value": 4.3
+  },
+  {
+    "id": "us7000gj48",
+    "latitude": 63.7401,
+    "longitude": -19.2175,
+    "value": 4.4
+  },
+  {
+    "id": "us6000gg4s",
+    "latitude": 64.5537,
+    "longitude": -17.6068,
+    "value": 4.4
+  },
+  {
+    "id": "us7000g9ma",
+    "latitude": 64.0665,
+    "longitude": -21.9557,
+    "value": 4.4
+  },
+  {
+    "id": "us7000g9ku",
+    "latitude": 64.0495,
+    "longitude": -21.7467,
+    "value": 4.2
+  },
+  {
+    "id": "us7000g9k4",
+    "latitude": 64.0436,
+    "longitude": -22.1082,
+    "value": 4.1
+  },
+  {
+    "id": "us7000g9k0",
+    "latitude": 64.1718,
+    "longitude": -22.3259,
+    "value": 4.5
+  },
+  {
+    "id": "us7000g9jw",
+    "latitude": 64.065,
+    "longitude": -22.1689,
+    "value": 4.6
+  },
+  {
+    "id": "us6000geg2",
+    "latitude": 64.0251,
+    "longitude": -22.1269,
+    "value": 4.8
+  },
+  {
+    "id": "us7000ft83",
+    "latitude": 63.9684,
+    "longitude": -19.7119,
+    "value": 5
+  },
+  {
+    "id": "us6000fsma",
+    "latitude": 63.9594,
+    "longitude": -21.6364,
+    "value": 4.2
+  },
+  {
+    "id": "us6000f4b7",
+    "latitude": 63.49,
+    "longitude": -24.1951,
+    "value": 4.4
+  },
+  {
+    "id": "us6000f8ux",
+    "latitude": 63.6018,
+    "longitude": -24.0475,
+    "value": 4.1
+  },
+  {
+    "id": "us6000ezmy",
+    "latitude": 64.4807,
+    "longitude": -17.853,
+    "value": 4.8
+  },
+  {
+    "id": "us6000ezl9",
+    "latitude": 64.6384,
+    "longitude": -17.3847,
+    "value": 4.3
+  },
+  {
+    "id": "us7000djaw",
+    "latitude": 64.039,
+    "longitude": -22.138,
+    "value": 5.3
+  },
+  {
+    "id": "us7000dja0",
+    "latitude": 64.0179,
+    "longitude": -21.7856,
+    "value": 4.5
+  },
+  {
+    "id": "us7000dizy",
+    "latitude": 64.0606,
+    "longitude": -21.9362,
+    "value": 4.6
+  },
+  {
+    "id": "us7000dl05",
+    "latitude": 64.0552,
+    "longitude": -22.0395,
+    "value": 4.5
+  },
+  {
+    "id": "us7000dkxx",
+    "latitude": 64.0614,
+    "longitude": -22.2995,
+    "value": 4.4
+  },
+  {
+    "id": "us7000dkn4",
+    "latitude": 64.0802,
+    "longitude": -21.8901,
+    "value": 4.1
+  },
+  {
+    "id": "us7000dhml",
+    "latitude": 64.1057,
+    "longitude": -21.9937,
+    "value": 4.4
+  },
+  {
+    "id": "us7000dhle",
+    "latitude": 64.0363,
+    "longitude": -22.1554,
+    "value": 5.1
+  },
+  {
+    "id": "us7000dkjr",
+    "latitude": 63.9184,
+    "longitude": -22.2924,
+    "value": 4.3
+  },
+  {
+    "id": "us7000dkjs",
+    "latitude": 64.0286,
+    "longitude": -22.1688,
+    "value": 4
+  },
+  {
+    "id": "us7000djwb",
+    "latitude": 64.0769,
+    "longitude": -22.3783,
+    "value": 4.3
+  },
+  {
+    "id": "us7000djs6",
+    "latitude": 64.0719,
+    "longitude": -22.2551,
+    "value": 4.3
+  },
+  {
+    "id": "us7000dgqb",
+    "latitude": 64.058,
+    "longitude": -22.4919,
+    "value": 4.4
+  },
+  {
+    "id": "us7000dgq9",
+    "latitude": 64.0088,
+    "longitude": -22.2186,
+    "value": 4.4
+  },
+  {
+    "id": "us7000djtl",
+    "latitude": 64.003,
+    "longitude": -22.2567,
+    "value": 4.1
+  },
+  {
+    "id": "us7000dgqe",
+    "latitude": 64.1104,
+    "longitude": -22.0899,
+    "value": 4
+  },
+  {
+    "id": "us7000dgpz",
+    "latitude": 64.0185,
+    "longitude": -22.1748,
+    "value": 5.3
+  },
+  {
+    "id": "us7000dig9",
+    "latitude": 64.0619,
+    "longitude": -22.5357,
+    "value": 4.2
+  },
+  {
+    "id": "us7000dfe3",
+    "latitude": 63.9917,
+    "longitude": -22.0179,
+    "value": 4.7
+  },
+  {
+    "id": "us7000dhpf",
+    "latitude": 64.0978,
+    "longitude": -21.9821,
+    "value": 4.1
+  },
+  {
+    "id": "us7000dg1u",
+    "latitude": 64.1038,
+    "longitude": -22.2281,
+    "value": 4.4
+  },
+  {
+    "id": "us7000deru",
+    "latitude": 64.0258,
+    "longitude": -22.2328,
+    "value": 4.7
+  },
+  {
+    "id": "us7000del6",
+    "latitude": 64.0671,
+    "longitude": -22.1133,
+    "value": 4.9
+  },
+  {
+    "id": "us7000dg0e",
+    "latitude": 64.1281,
+    "longitude": -21.7709,
+    "value": 4.4
+  },
+  {
+    "id": "us7000dg08",
+    "latitude": 64.0852,
+    "longitude": -22.0062,
+    "value": 4.5
+  },
+  {
+    "id": "us7000deg9",
+    "latitude": 64.1036,
+    "longitude": -22.1816,
+    "value": 4.8
+  },
+  {
+    "id": "us7000dee1",
+    "latitude": 63.9516,
+    "longitude": -22.03,
+    "value": 4.6
+  },
+  {
+    "id": "us7000deqv",
+    "latitude": 64.0167,
+    "longitude": -21.9792,
+    "value": 4.3
+  },
+  {
+    "id": "us7000dfj9",
+    "latitude": 64.0363,
+    "longitude": -21.6833,
+    "value": 4.2
+  },
+  {
+    "id": "us7000de8w",
+    "latitude": 64.066,
+    "longitude": -22.15,
+    "value": 4.6
+  },
+  {
+    "id": "us7000de48",
+    "latitude": 64.044,
+    "longitude": -22.1455,
+    "value": 5.2
+  },
+  {
+    "id": "us7000de17",
+    "latitude": 64.1194,
+    "longitude": -21.7534,
+    "value": 4.8
+  },
+  {
+    "id": "us7000ddyv",
+    "latitude": 64.007,
+    "longitude": -22.0571,
+    "value": 4.2
+  },
+  {
+    "id": "us7000de2v",
+    "latitude": 64.0693,
+    "longitude": -22.1371,
+    "value": 4.2
+  },
+  {
+    "id": "us7000df6n",
+    "latitude": 64.0753,
+    "longitude": -21.9369,
+    "value": 4.3
+  },
+  {
+    "id": "us7000ddwa",
+    "latitude": 64.0312,
+    "longitude": -21.9342,
+    "value": 4.5
+  },
+  {
+    "id": "us6000dknk",
+    "latitude": 64.0993,
+    "longitude": -21.8798,
+    "value": 4.6
+  },
+  {
+    "id": "us7000dem5",
+    "latitude": 63.9636,
+    "longitude": -21.8533,
+    "value": 4.2
+  },
+  {
+    "id": "us6000dkmz",
+    "latitude": 64.0905,
+    "longitude": -22.5564,
+    "value": 4.7
+  },
+  {
+    "id": "us7000dem6",
+    "latitude": 64.0441,
+    "longitude": -21.7126,
+    "value": 4.5
+  },
+  {
+    "id": "us6000dkn1",
+    "latitude": 64.0182,
+    "longitude": -22.132,
+    "value": 4.8
+  },
+  {
+    "id": "us6000dkmq",
+    "latitude": 64.0748,
+    "longitude": -21.8557,
+    "value": 4.5
+  },
+  {
+    "id": "us6000dkmp",
+    "latitude": 63.9877,
+    "longitude": -22.2664,
+    "value": 4.8
+  },
+  {
+    "id": "us6000dkmk",
+    "latitude": 63.949,
+    "longitude": -22.2851,
+    "value": 5.6
+  },
+  {
+    "id": "us6000dkml",
+    "latitude": 64.2231,
+    "longitude": -22.0386,
+    "value": 4.5
+  },
+  {
+    "id": "us6000djcc",
+    "latitude": 64.4401,
+    "longitude": -18.1314,
+    "value": 4.3
+  },
+  {
+    "id": "us6000cc60",
+    "latitude": 63.9685,
+    "longitude": -22.2106,
+    "value": 4.2
+  },
+  {
+    "id": "us6000ca0k",
+    "latitude": 64.0134,
+    "longitude": -22.1508,
+    "value": 5.6
+  },
+  {
+    "id": "us6000c1st",
+    "latitude": 64.5113,
+    "longitude": -17.5691,
+    "value": 4.8
+  },
+  {
+    "id": "us6000c3vi",
+    "latitude": 66.5571,
+    "longitude": -17.7235,
+    "value": 4.2
+  },
+  {
+    "id": "us6000c3vh",
+    "latitude": 66.5245,
+    "longitude": -17.6314,
+    "value": 4.2
+  },
+  {
+    "id": "us6000c3ve",
+    "latitude": 66.5662,
+    "longitude": -17.946,
+    "value": 4.5
+  },
+  {
+    "id": "us7000bniv",
+    "latitude": 66.1498,
+    "longitude": -17.8724,
+    "value": 4.3
+  },
+  {
+    "id": "us7000bd8f",
+    "latitude": 64.091,
+    "longitude": -22.1238,
+    "value": 4.5
+  },
+  {
+    "id": "us7000arxc",
+    "latitude": 64.0237,
+    "longitude": -22.3113,
+    "value": 4.1
+  },
+  {
+    "id": "us7000ard2",
+    "latitude": 64.0698,
+    "longitude": -22.1891,
+    "value": 4.5
+  },
+  {
+    "id": "us7000an4j",
+    "latitude": 64.5336,
+    "longitude": -17.7173,
+    "value": 4.4
+  },
+  {
+    "id": "us7000ak95",
+    "latitude": 66.0895,
+    "longitude": -18.6899,
+    "value": 4.2
+  },
+  {
+    "id": "us7000afr0",
+    "latitude": 66.3237,
+    "longitude": -18.9437,
+    "value": 4.2
+  },
+  {
+    "id": "us7000afqn",
+    "latitude": 66.4235,
+    "longitude": -18.9333,
+    "value": 4.1
+  },
+  {
+    "id": "us6000ag49",
+    "latitude": 66.223,
+    "longitude": -18.9215,
+    "value": 4.1
+  },
+  {
+    "id": "us6000ag2l",
+    "latitude": 66.5048,
+    "longitude": -18.9503,
+    "value": 4.4
+  },
+  {
+    "id": "us6000ag1w",
+    "latitude": 66.4191,
+    "longitude": -18.7916,
+    "value": 4.5
+  },
+  {
+    "id": "us6000ag1s",
+    "latitude": 66.2886,
+    "longitude": -18.6299,
+    "value": 4.5
+  },
+  {
+    "id": "us7000ac7b",
+    "latitude": 66.2726,
+    "longitude": -18.6721,
+    "value": 4.5
+  },
+  {
+    "id": "us6000ag18",
+    "latitude": 66.381,
+    "longitude": -18.707,
+    "value": 6
+  },
+  {
+    "id": "us6000ag0h",
+    "latitude": 66.3983,
+    "longitude": -18.8074,
+    "value": 4.4
+  },
+  {
+    "id": "us6000afqb",
+    "latitude": 66.073,
+    "longitude": -18.6184,
+    "value": 4.2
+  },
+  {
+    "id": "us6000afjq",
+    "latitude": 66.2953,
+    "longitude": -18.5532,
+    "value": 4.5
+  },
+  {
+    "id": "us6000afj6",
+    "latitude": 66.2868,
+    "longitude": -18.8934,
+    "value": 5.7
+  },
+  {
+    "id": "us6000afgh",
+    "latitude": 66.2493,
+    "longitude": -18.6779,
+    "value": 5.4
+  },
+  {
+    "id": "us6000aevp",
+    "latitude": 64.5015,
+    "longitude": -17.7118,
+    "value": 4.5
+  },
+  {
+    "id": "us7000908u",
+    "latitude": 64.5898,
+    "longitude": -17.6556,
+    "value": 5.1
+  },
+  {
+    "id": "us70008gyh",
+    "latitude": 64.05,
+    "longitude": -22.7538,
+    "value": 4.2
+  },
+  {
+    "id": "us60008e8e",
+    "latitude": 63.9708,
+    "longitude": -22.2979,
+    "value": 4.6
+  },
+  {
+    "id": "us60007k5s",
+    "latitude": 63.5326,
+    "longitude": -24.0255,
+    "value": 4.5
+  },
+  {
+    "id": "us60007a2d",
+    "latitude": 63.5254,
+    "longitude": -24.1042,
+    "value": 4.5
+  },
+  {
+    "id": "us60007a28",
+    "latitude": 63.642,
+    "longitude": -23.7586,
+    "value": 4.3
+  },
+  {
+    "id": "us600079aq",
+    "latitude": 64.6639,
+    "longitude": -17.8506,
+    "value": 4.2
+  },
+  {
+    "id": "us70006uwl",
+    "latitude": 64.6591,
+    "longitude": -17.5641,
+    "value": 4.9
+  },
+  {
+    "id": "us700068u5",
+    "latitude": 63.7788,
+    "longitude": -23.3999,
+    "value": 4.7
+  },
+  {
+    "id": "us70006bqj",
+    "latitude": 63.8039,
+    "longitude": -23.3081,
+    "value": 4.3
+  },
+  {
+    "id": "us60004uin",
+    "latitude": 66.2158,
+    "longitude": -19.6049,
+    "value": 4.2
+  },
+  {
+    "id": "us60004584",
+    "latitude": 64.5973,
+    "longitude": -17.7561,
+    "value": 4.5
+  },
+  {
+    "id": "us6000457r",
+    "latitude": 64.667,
+    "longitude": -17.8035,
+    "value": 4.5
+  },
+  {
+    "id": "us2000jm6n",
+    "latitude": 64.6367,
+    "longitude": -17.5689,
+    "value": 4.5
+  },
+  {
+    "id": "us2000iz6z",
+    "latitude": 64.1613,
+    "longitude": -21.0068,
+    "value": 4.3
+  },
+  {
+    "id": "us2000iygs",
+    "latitude": 64.636,
+    "longitude": -17.7244,
+    "value": 4.7
+  },
+  {
+    "id": "us1000hfw6",
+    "latitude": 64.5583,
+    "longitude": -17.6514,
+    "value": 4.5
+  },
+  {
+    "id": "us2000hi7p",
+    "latitude": 64.5167,
+    "longitude": -17.8029,
+    "value": 4.5
+  },
+  {
+    "id": "us1000genz",
+    "latitude": 63.9288,
+    "longitude": -19.547,
+    "value": 4.4
+  },
+  {
+    "id": "us1000erk1",
+    "latitude": 64.7005,
+    "longitude": -17.5617,
+    "value": 4.7
+  },
+  {
+    "id": "us1000e7bm",
+    "latitude": 64.55,
+    "longitude": -17.7231,
+    "value": 4.3
+  },
+  {
+    "id": "us1000d7b5",
+    "latitude": 64.5653,
+    "longitude": -17.7455,
+    "value": 4.3
+  },
+  {
+    "id": "us2000d9n2",
+    "latitude": 66.5772,
+    "longitude": -17.7242,
+    "value": 4.2
+  },
+  {
+    "id": "us2000d4l9",
+    "latitude": 66.4096,
+    "longitude": -17.7033,
+    "value": 4.3
+  },
+  {
+    "id": "us2000d4l6",
+    "latitude": 66.3979,
+    "longitude": -17.633,
+    "value": 4.4
+  },
+  {
+    "id": "us2000d4k6",
+    "latitude": 66.4975,
+    "longitude": -17.6816,
+    "value": 4.9
+  },
+  {
+    "id": "us2000d4k4",
+    "latitude": 66.4105,
+    "longitude": -17.7437,
+    "value": 4.8
+  },
+  {
+    "id": "us2000d9n3",
+    "latitude": 66.5103,
+    "longitude": -17.7433,
+    "value": 4.2
+  },
+  {
+    "id": "us2000d70q",
+    "latitude": 66.3632,
+    "longitude": -17.9499,
+    "value": 4.2
+  },
+  {
+    "id": "us2000crfy",
+    "latitude": 64.6691,
+    "longitude": -17.2917,
+    "value": 5
+  },
+  {
+    "id": "us1000btik",
+    "latitude": 64.5844,
+    "longitude": -17.7285,
+    "value": 4.5
+  },
+  {
+    "id": "us1000bjct",
+    "latitude": 64.4613,
+    "longitude": -17.7956,
+    "value": 4.4
+  },
+  {
+    "id": "us1000axc8",
+    "latitude": 64.611,
+    "longitude": -17.8511,
+    "value": 4.6
+  },
+  {
+    "id": "us1000axbq",
+    "latitude": 64.6666,
+    "longitude": -17.5717,
+    "value": 4.6
+  },
+  {
+    "id": "us2000at5l",
+    "latitude": 64.5019,
+    "longitude": -17.9505,
+    "value": 4.3
+  },
+  {
+    "id": "us2000at6b",
+    "latitude": 64.4904,
+    "longitude": -17.6137,
+    "value": 4.6
+  },
+  {
+    "id": "us2000ahc4",
+    "latitude": 64.5368,
+    "longitude": -17.5233,
+    "value": 4.7
+  },
+  {
+    "id": "us2000ac6d",
+    "latitude": 64.5507,
+    "longitude": -17.8364,
+    "value": 4.4
+  },
+  {
+    "id": "us2000a3ln",
+    "latitude": 64.6892,
+    "longitude": -17.648,
+    "value": 4.3
+  },
+  {
+    "id": "us2000a1jq",
+    "latitude": 63.6293,
+    "longitude": -19.0846,
+    "value": 4.4
+  },
+  {
+    "id": "us2000a37i",
+    "latitude": 63.5577,
+    "longitude": -19.3782,
+    "value": 4.1
+  },
+  {
+    "id": "us100097mh",
+    "latitude": 64.5478,
+    "longitude": -18.068,
+    "value": 4.4
+  },
+  {
+    "id": "us10008vrn",
+    "latitude": 64.5807,
+    "longitude": -17.8901,
+    "value": 4.2
+  },
+  {
+    "id": "us10008tx3",
+    "latitude": 64.6451,
+    "longitude": -17.7338,
+    "value": 4.4
+  },
+  {
+    "id": "us10008icd",
+    "latitude": 64.6427,
+    "longitude": -17.8415,
+    "value": 4.2
+  },
+  {
+    "id": "us20008iqi",
+    "latitude": 63.6357,
+    "longitude": -19.1589,
+    "value": 4.5
+  },
+  {
+    "id": "us20007c5c",
+    "latitude": 63.7045,
+    "longitude": -19.2327,
+    "value": 4.1
+  },
+  {
+    "id": "us20006uxe",
+    "latitude": 63.653,
+    "longitude": -19.089,
+    "value": 4.5
+  },
+  {
+    "id": "us20005iej",
+    "latitude": 64.6366,
+    "longitude": -17.771,
+    "value": 4.6
+  },
+  {
+    "id": "us20002xr8",
+    "latitude": 63.7217,
+    "longitude": -23.2416,
+    "value": 4.5
+  },
+  {
+    "id": "us10002mqv",
+    "latitude": 63.8622,
+    "longitude": -23.1378,
+    "value": 4.5
+  },
+  {
+    "id": "us10002mpu",
+    "latitude": 63.8386,
+    "longitude": -23.0179,
+    "value": 4.5
+  },
+  {
+    "id": "us10002mq6",
+    "latitude": 63.9994,
+    "longitude": -23.2388,
+    "value": 4.4
+  },
+  {
+    "id": "us10002l5y",
+    "latitude": 63.9175,
+    "longitude": -22.7669,
+    "value": 4.5
+  },
+  {
+    "id": "usc000tsqg",
+    "latitude": 64.4954,
+    "longitude": -17.6296,
+    "value": 4.3
+  },
+  {
+    "id": "usb000tp7m",
+    "latitude": 64.6857,
+    "longitude": -17.0423,
+    "value": 4.6
+  },
+  {
+    "id": "us10000a0b",
+    "latitude": 64.5473,
+    "longitude": -17.6288,
+    "value": 4.6
+  },
+  {
+    "id": "usc000tmm7",
+    "latitude": 64.6159,
+    "longitude": -17.7092,
+    "value": 4.7
+  },
+  {
+    "id": "usb000tnk2",
+    "latitude": 64.5443,
+    "longitude": -17.7707,
+    "value": 4.6
+  },
+  {
+    "id": "usc000tnqb",
+    "latitude": 64.2238,
+    "longitude": -17.993,
+    "value": 4.3
+  },
+  {
+    "id": "usc000tnd6",
+    "latitude": 64.5182,
+    "longitude": -17.888,
+    "value": 4.4
+  },
+  {
+    "id": "usc000tmhf",
+    "latitude": 64.571,
+    "longitude": -17.6757,
+    "value": 4.1
+  },
+  {
+    "id": "usc000tmga",
+    "latitude": 64.3609,
+    "longitude": -17.7048,
+    "value": 4.4
+  },
+  {
+    "id": "usc000tk74",
+    "latitude": 64.6038,
+    "longitude": -17.56,
+    "value": 4.3
+  },
+  {
+    "id": "usc000tmgm",
+    "latitude": 64.2117,
+    "longitude": -17.7979,
+    "value": 4.5
+  },
+  {
+    "id": "usc000tlat",
+    "latitude": 64.4586,
+    "longitude": -17.959,
+    "value": 4.4
+  },
+  {
+    "id": "usc000tiyh",
+    "latitude": 64.5044,
+    "longitude": -17.7484,
+    "value": 4.4
+  },
+  {
+    "id": "usc000tish",
+    "latitude": 64.67,
+    "longitude": -17.46,
+    "value": 4.6
+  },
+  {
+    "id": "usc000tkyg",
+    "latitude": 64.6122,
+    "longitude": -17.6509,
+    "value": 4.4
+  },
+  {
+    "id": "usc000tihd",
+    "latitude": 64.6538,
+    "longitude": -17.5206,
+    "value": 4.6
+  },
+  {
+    "id": "usc000tkd5",
+    "latitude": 64.5352,
+    "longitude": -17.6449,
+    "value": 4.4
+  },
+  {
+    "id": "usc000thwb",
+    "latitude": 64.5034,
+    "longitude": -17.7247,
+    "value": 4.5
+  },
+  {
+    "id": "usc000thh5",
+    "latitude": 64.4309,
+    "longitude": -17.9079,
+    "value": 4.3
+  },
+  {
+    "id": "usc000tk3p",
+    "latitude": 64.4182,
+    "longitude": -17.7489,
+    "value": 4.3
+  },
+  {
+    "id": "usc000thg3",
+    "latitude": 64.4304,
+    "longitude": -17.9078,
+    "value": 4.3
+  },
+  {
+    "id": "usc000they",
+    "latitude": 64.5031,
+    "longitude": -17.4205,
+    "value": 4.7
+  },
+  {
+    "id": "usc000tk3l",
+    "latitude": 64.4333,
+    "longitude": -17.5287,
+    "value": 4.3
+  },
+  {
+    "id": "usc000th0t",
+    "latitude": 64.5082,
+    "longitude": -17.75,
+    "value": 4.7
+  },
+  {
+    "id": "usc000tgx3",
+    "latitude": 64.7117,
+    "longitude": -17.2895,
+    "value": 4.7
+  },
+  {
+    "id": "usc000tghi",
+    "latitude": 64.6132,
+    "longitude": -17.3089,
+    "value": 4.7
+  },
+  {
+    "id": "usc000tj3z",
+    "latitude": 64.5193,
+    "longitude": -17.5978,
+    "value": 4.3
+  },
+  {
+    "id": "usc000tj4g",
+    "latitude": 64.6046,
+    "longitude": -17.4151,
+    "value": 4.4
+  },
+  {
+    "id": "usc000tfye",
+    "latitude": 64.61,
+    "longitude": -17.38,
+    "value": 4.5
+  },
+  {
+    "id": "usc000tfag",
+    "latitude": 64.6792,
+    "longitude": -17.271,
+    "value": 4.7
+  },
+  {
+    "id": "usc000tf7c",
+    "latitude": 64.4444,
+    "longitude": -17.9127,
+    "value": 4.4
+  },
+  {
+    "id": "usc000teve",
+    "latitude": 64.59,
+    "longitude": -17.8055,
+    "value": 4.5
+  },
+  {
+    "id": "usc000teqf",
+    "latitude": 64.4533,
+    "longitude": -17.8284,
+    "value": 4.5
+  },
+  {
+    "id": "usc000tilg",
+    "latitude": 64.4568,
+    "longitude": -17.5386,
+    "value": 4.7
+  },
+  {
+    "id": "usc000tem8",
+    "latitude": 64.7278,
+    "longitude": -17.3729,
+    "value": 4.5
+  },
+  {
+    "id": "usc000teix",
+    "latitude": 64.5642,
+    "longitude": -17.4362,
+    "value": 4.7
+  },
+  {
+    "id": "usc000ti9a",
+    "latitude": 64.3318,
+    "longitude": -17.6445,
+    "value": 4.3
+  },
+  {
+    "id": "usc000tdak",
+    "latitude": 64.5611,
+    "longitude": -17.773,
+    "value": 5.1
+  },
+  {
+    "id": "usc000td5s",
+    "latitude": 64.6034,
+    "longitude": -17.4501,
+    "value": 4.6
+  },
+  {
+    "id": "usc000thfb",
+    "latitude": 64.7119,
+    "longitude": -17.5784,
+    "value": 4.6
+  },
+  {
+    "id": "usc000th6r",
+    "latitude": 64.4833,
+    "longitude": -17.8341,
+    "value": 4.4
+  },
+  {
+    "id": "usc000tbz0",
+    "latitude": 64.637,
+    "longitude": -17.7023,
+    "value": 5
+  },
+  {
+    "id": "usc000tgge",
+    "latitude": 64.5932,
+    "longitude": -17.795,
+    "value": 4.5
+  },
+  {
+    "id": "usc000tbka",
+    "latitude": 64.5993,
+    "longitude": -17.6711,
+    "value": 4.5
+  },
+  {
+    "id": "usc000tgfl",
+    "latitude": 64.6207,
+    "longitude": -17.7074,
+    "value": 4.2
+  },
+  {
+    "id": "usc000tbee",
+    "latitude": 64.6488,
+    "longitude": -17.7668,
+    "value": 4.3
+  },
+  {
+    "id": "usc000tge0",
+    "latitude": 64.539,
+    "longitude": -17.9831,
+    "value": 4.3
+  },
+  {
+    "id": "usc000tbd1",
+    "latitude": 64.4571,
+    "longitude": -17.5692,
+    "value": 4.6
+  },
+  {
+    "id": "usc000tgdw",
+    "latitude": 64.4415,
+    "longitude": -17.795,
+    "value": 4.4
+  },
+  {
+    "id": "usc000tbab",
+    "latitude": 64.6123,
+    "longitude": -17.8717,
+    "value": 4.5
+  },
+  {
+    "id": "usc000tg5c",
+    "latitude": 64.5448,
+    "longitude": -17.5205,
+    "value": 4.4
+  },
+  {
+    "id": "usc000tg5f",
+    "latitude": 64.5274,
+    "longitude": -17.7008,
+    "value": 4.2
+  },
+  {
+    "id": "usc000tg4x",
+    "latitude": 64.6073,
+    "longitude": -17.6866,
+    "value": 4.3
+  },
+  {
+    "id": "usc000taye",
+    "latitude": 64.73,
+    "longitude": -17.0797,
+    "value": 4.4
+  },
+  {
+    "id": "usc000tauc",
+    "latitude": 64.4784,
+    "longitude": -17.6649,
+    "value": 4.6
+  },
+  {
+    "id": "usc000taqf",
+    "latitude": 64.628,
+    "longitude": -17.7035,
+    "value": 5
+  },
+  {
+    "id": "usc000tajn",
+    "latitude": 64.5559,
+    "longitude": -17.8226,
+    "value": 4.4
+  },
+  {
+    "id": "usc000tg2h",
+    "latitude": 64.5981,
+    "longitude": -17.8775,
+    "value": 4.4
+  },
+  {
+    "id": "usc000ta8f",
+    "latitude": 64.5541,
+    "longitude": -17.534,
+    "value": 4.5
+  },
+  {
+    "id": "usc000tett",
+    "latitude": 64.443,
+    "longitude": -17.9235,
+    "value": 4.4
+  },
+  {
+    "id": "usc000ta03",
+    "latitude": 64.5553,
+    "longitude": -17.2888,
+    "value": 5
+  },
+  {
+    "id": "usc000t9yh",
+    "latitude": 64.5328,
+    "longitude": -17.7517,
+    "value": 4.3
+  },
+  {
+    "id": "usc000t9xi",
+    "latitude": 64.5925,
+    "longitude": -17.7572,
+    "value": 4.6
+  },
+  {
+    "id": "usc000td93",
+    "latitude": 64.5975,
+    "longitude": -17.5547,
+    "value": 4.4
+  },
+  {
+    "id": "usc000td86",
+    "latitude": 64.5946,
+    "longitude": -18.0605,
+    "value": 4.3
+  },
+  {
+    "id": "usc000t9k0",
+    "latitude": 64.6315,
+    "longitude": -17.505,
+    "value": 4.5
+  },
+  {
+    "id": "usc000t9cx",
+    "latitude": 64.5799,
+    "longitude": -17.6891,
+    "value": 4.4
+  },
+  {
+    "id": "usc000td5j",
+    "latitude": 64.5698,
+    "longitude": -17.8583,
+    "value": 4.3
+  },
+  {
+    "id": "usc000t989",
+    "latitude": 64.5503,
+    "longitude": -17.4904,
+    "value": 4.6
+  },
+  {
+    "id": "usc000t93f",
+    "latitude": 64.4792,
+    "longitude": -17.6598,
+    "value": 4.5
+  },
+  {
+    "id": "usc000tcv8",
+    "latitude": 64.0856,
+    "longitude": -17.9798,
+    "value": 4.5
+  },
+  {
+    "id": "usc000tcv1",
+    "latitude": 64.4814,
+    "longitude": -17.7584,
+    "value": 4.2
+  },
+  {
+    "id": "usc000tcu6",
+    "latitude": 64.5682,
+    "longitude": -17.8581,
+    "value": 4.3
+  },
+  {
+    "id": "usc000tcr7",
+    "latitude": 64.4433,
+    "longitude": -17.6361,
+    "value": 4.5
+  },
+  {
+    "id": "usc000t8pn",
+    "latitude": 64.6349,
+    "longitude": -17.184,
+    "value": 4.6
+  },
+  {
+    "id": "usc000tcsm",
+    "latitude": 64.578,
+    "longitude": -17.8509,
+    "value": 4.5
+  },
+  {
+    "id": "usc000tcs6",
+    "latitude": 64.4206,
+    "longitude": -17.8534,
+    "value": 4.3
+  },
+  {
+    "id": "usc000tcqd",
+    "latitude": 64.476,
+    "longitude": -17.4174,
+    "value": 4.4
+  },
+  {
+    "id": "usc000tcpm",
+    "latitude": 64.5405,
+    "longitude": -17.3566,
+    "value": 4.5
+  },
+  {
+    "id": "usc000t7n7",
+    "latitude": 64.5909,
+    "longitude": -17.7629,
+    "value": 5.3
+  },
+  {
+    "id": "usc000tcmb",
+    "latitude": 64.5156,
+    "longitude": -17.7839,
+    "value": 4.4
+  },
+  {
+    "id": "usc000t6v8",
+    "latitude": 64.6066,
+    "longitude": -17.1993,
+    "value": 5.4
+  },
+  {
+    "id": "usc000t6si",
+    "latitude": 64.3998,
+    "longitude": -17.969,
+    "value": 4.4
+  },
+  {
+    "id": "usc000tcj3",
+    "latitude": 64.4346,
+    "longitude": -17.7925,
+    "value": 4.2
+  },
+  {
+    "id": "usc000tcjc",
+    "latitude": 64.5031,
+    "longitude": -17.6839,
+    "value": 4.4
+  },
+  {
+    "id": "usc000tcim",
+    "latitude": 64.5328,
+    "longitude": -17.8388,
+    "value": 4.8
+  },
+  {
+    "id": "usc000tcij",
+    "latitude": 64.5013,
+    "longitude": -17.412,
+    "value": 4.3
+  },
+  {
+    "id": "usc000t69n",
+    "latitude": 64.678,
+    "longitude": -17.3649,
+    "value": 4.7
+  },
+  {
+    "id": "usc000t688",
+    "latitude": 64.532,
+    "longitude": -17.4948,
+    "value": 4.5
+  },
+  {
+    "id": "usc000tch4",
+    "latitude": 64.6025,
+    "longitude": -17.3943,
+    "value": 4.5
+  },
+  {
+    "id": "usc000tcgq",
+    "latitude": 64.6827,
+    "longitude": -17.5125,
+    "value": 4.8
+  },
+  {
+    "id": "usc000t5kb",
+    "latitude": 64.4971,
+    "longitude": -17.8907,
+    "value": 4.5
+  },
+  {
+    "id": "usc000t5je",
+    "latitude": 64.5267,
+    "longitude": -17.8876,
+    "value": 4.6
+  },
+  {
+    "id": "usc000t9rt",
+    "latitude": 64.4472,
+    "longitude": -17.6835,
+    "value": 4.6
+  },
+  {
+    "id": "usc000t4vs",
+    "latitude": 64.5777,
+    "longitude": -17.3904,
+    "value": 4.9
+  },
+  {
+    "id": "usc000t9pk",
+    "latitude": 64.1171,
+    "longitude": -18.188,
+    "value": 4.2
+  },
+  {
+    "id": "usc000t4pt",
+    "latitude": 64.6154,
+    "longitude": -17.1813,
+    "value": 4.5
+  },
+  {
+    "id": "usc000t4mn",
+    "latitude": 64.3782,
+    "longitude": -17.9638,
+    "value": 4.6
+  },
+  {
+    "id": "usc000t4f5",
+    "latitude": 64.6415,
+    "longitude": -17.884,
+    "value": 4.5
+  },
+  {
+    "id": "usc000t4ej",
+    "latitude": 64.6861,
+    "longitude": -17.1789,
+    "value": 4.6
+  },
+  {
+    "id": "usc000t8d8",
+    "latitude": 64.4944,
+    "longitude": -17.8297,
+    "value": 4.2
+  },
+  {
+    "id": "usc000t455",
+    "latitude": 64.5545,
+    "longitude": -17.3112,
+    "value": 5.4
+  },
+  {
+    "id": "usc000t3ws",
+    "latitude": 64.5866,
+    "longitude": -17.7948,
+    "value": 4.5
+  },
+  {
+    "id": "usc000t7pk",
+    "latitude": 64.3138,
+    "longitude": -17.9467,
+    "value": 4.4
+  },
+  {
+    "id": "usc000t7pe",
+    "latitude": 64.3644,
+    "longitude": -17.7781,
+    "value": 4.4
+  },
+  {
+    "id": "usc000t7nx",
+    "latitude": 64.4979,
+    "longitude": -17.5452,
+    "value": 4.5
+  },
+  {
+    "id": "usc000t7p8",
+    "latitude": 64.3648,
+    "longitude": -17.8137,
+    "value": 4.3
+  },
+  {
+    "id": "usb000t2dq",
+    "latitude": 64.5328,
+    "longitude": -17.5075,
+    "value": 4.5
+  },
+  {
+    "id": "usc000t7ck",
+    "latitude": 64.5363,
+    "longitude": -17.4899,
+    "value": 4.5
+  },
+  {
+    "id": "usb000t203",
+    "latitude": 64.666,
+    "longitude": -17.487,
+    "value": 5.3
+  },
+  {
+    "id": "usc000t6yj",
+    "latitude": 64.5506,
+    "longitude": -17.8489,
+    "value": 4.6
+  },
+  {
+    "id": "usc000t6yx",
+    "latitude": 64.4083,
+    "longitude": -17.7963,
+    "value": 4.3
+  },
+  {
+    "id": "usb000t1iw",
+    "latitude": 64.5267,
+    "longitude": -17.5999,
+    "value": 5.4
+  },
+  {
+    "id": "usb000t1hd",
+    "latitude": 64.6464,
+    "longitude": -17.4698,
+    "value": 4.4
+  },
+  {
+    "id": "usb000t1fk",
+    "latitude": 64.3676,
+    "longitude": -17.5914,
+    "value": 4.7
+  },
+  {
+    "id": "usb000t1cm",
+    "latitude": 64.5769,
+    "longitude": -17.8098,
+    "value": 4.6
+  },
+  {
+    "id": "usb000t1bl",
+    "latitude": 64.4985,
+    "longitude": -17.7965,
+    "value": 4.4
+  },
+  {
+    "id": "usb000t1bj",
+    "latitude": 64.5241,
+    "longitude": -17.6598,
+    "value": 4.4
+  },
+  {
+    "id": "usb000t19g",
+    "latitude": 64.5713,
+    "longitude": -17.6306,
+    "value": 4.2
+  },
+  {
+    "id": "usb000t15f",
+    "latitude": 64.5163,
+    "longitude": -17.1688,
+    "value": 4.6
+  },
+  {
+    "id": "usb000t124",
+    "latitude": 64.4219,
+    "longitude": -17.3325,
+    "value": 4.5
+  },
+  {
+    "id": "usc000t5zq",
+    "latitude": 64.4282,
+    "longitude": -17.626,
+    "value": 4.6
+  },
+  {
+    "id": "usb000t11k",
+    "latitude": 64.5205,
+    "longitude": -17.8026,
+    "value": 4.5
+  },
+  {
+    "id": "usc000t5za",
+    "latitude": 64.5419,
+    "longitude": -17.8743,
+    "value": 4.5
+  },
+  {
+    "id": "usc000t5xs",
+    "latitude": 64.4592,
+    "longitude": -17.1501,
+    "value": 4.3
+  },
+  {
+    "id": "usb000t0tz",
+    "latitude": 64.6405,
+    "longitude": -17.4009,
+    "value": 4.8
+  },
+  {
+    "id": "usc000t5ks",
+    "latitude": 64.4191,
+    "longitude": -17.7578,
+    "value": 4.3
+  },
+  {
+    "id": "usb000t0hu",
+    "latitude": 64.5926,
+    "longitude": -17.6169,
+    "value": 4.5
+  },
+  {
+    "id": "usb000t0bm",
+    "latitude": 64.5339,
+    "longitude": -17.671,
+    "value": 4.6
+  },
+  {
+    "id": "usb000t08k",
+    "latitude": 64.5371,
+    "longitude": -17.6855,
+    "value": 4.6
+  },
+  {
+    "id": "usb000t03a",
+    "latitude": 64.5263,
+    "longitude": -17.5383,
+    "value": 4.5
+  },
+  {
+    "id": "usc000t4ub",
+    "latitude": 64.5767,
+    "longitude": -17.8994,
+    "value": 4.2
+  },
+  {
+    "id": "usb000szu2",
+    "latitude": 64.426,
+    "longitude": -17.4516,
+    "value": 4.4
+  },
+  {
+    "id": "usb000szhs",
+    "latitude": 64.6727,
+    "longitude": -17.557,
+    "value": 5.2
+  },
+  {
+    "id": "usc000t42f",
+    "latitude": 64.6464,
+    "longitude": -17.7869,
+    "value": 4.1
+  },
+  {
+    "id": "usb000sz8w",
+    "latitude": 64.502,
+    "longitude": -17.5573,
+    "value": 4.9
+  },
+  {
+    "id": "usc000t438",
+    "latitude": 64.4794,
+    "longitude": -17.709,
+    "value": 4.5
+  },
+  {
+    "id": "usb000sz3j",
+    "latitude": 64.6264,
+    "longitude": -17.6297,
+    "value": 4.4
+  },
+  {
+    "id": "usc000t41i",
+    "latitude": 64.4695,
+    "longitude": -17.7746,
+    "value": 4.4
+  },
+  {
+    "id": "usb000syr8",
+    "latitude": 64.6419,
+    "longitude": -17.0953,
+    "value": 4.5
+  },
+  {
+    "id": "usc000t3yq",
+    "latitude": 64.5881,
+    "longitude": -17.5992,
+    "value": 4.5
+  },
+  {
+    "id": "usc000t3yb",
+    "latitude": 64.4495,
+    "longitude": -17.4474,
+    "value": 4.3
+  },
+  {
+    "id": "usc000t3yg",
+    "latitude": 64.6298,
+    "longitude": -17.6827,
+    "value": 4.5
+  },
+  {
+    "id": "usc000t3xr",
+    "latitude": 64.4911,
+    "longitude": -17.6879,
+    "value": 4.4
+  },
+  {
+    "id": "usb000syfr",
+    "latitude": 64.5337,
+    "longitude": -17.6592,
+    "value": 4.5
+  },
+  {
+    "id": "usc000t3qk",
+    "latitude": 64.5077,
+    "longitude": -17.7921,
+    "value": 4.6
+  },
+  {
+    "id": "usc000t3q8",
+    "latitude": 64.6384,
+    "longitude": -17.8055,
+    "value": 4.4
+  },
+  {
+    "id": "usc000t3qh",
+    "latitude": 64.6346,
+    "longitude": -17.4835,
+    "value": 4.2
+  },
+  {
+    "id": "usb000sy6b",
+    "latitude": 64.6213,
+    "longitude": -17.6786,
+    "value": 4.4
+  },
+  {
+    "id": "usb000sy47",
+    "latitude": 64.5858,
+    "longitude": -17.619,
+    "value": 4.5
+  },
+  {
+    "id": "usb000sy3n",
+    "latitude": 64.3844,
+    "longitude": -17.5831,
+    "value": 4.4
+  },
+  {
+    "id": "usb000t2g3",
+    "latitude": 64.5732,
+    "longitude": -17.7396,
+    "value": 4.4
+  },
+  {
+    "id": "usb000sy3h",
+    "latitude": 64.5257,
+    "longitude": -17.2173,
+    "value": 4.4
+  },
+  {
+    "id": "usc000syps",
+    "latitude": 64.5255,
+    "longitude": -17.7383,
+    "value": 4.4
+  },
+  {
+    "id": "usb000t2hi",
+    "latitude": 64.6698,
+    "longitude": -17.844,
+    "value": 4.2
+  },
+  {
+    "id": "usc000syir",
+    "latitude": 64.5948,
+    "longitude": -17.4481,
+    "value": 4.6
+  },
+  {
+    "id": "usc000syjv",
+    "latitude": 64.5939,
+    "longitude": -17.6374,
+    "value": 4.3
+  },
+  {
+    "id": "usc000syeu",
+    "latitude": 64.5446,
+    "longitude": -17.641,
+    "value": 4.5
+  },
+  {
+    "id": "usb000t28s",
+    "latitude": 64.5136,
+    "longitude": -17.8163,
+    "value": 4.6
+  },
+  {
+    "id": "usb000t243",
+    "latitude": 64.5034,
+    "longitude": -17.58,
+    "value": 4.3
+  },
+  {
+    "id": "usb000t233",
+    "latitude": 64.5224,
+    "longitude": -17.6967,
+    "value": 4.5
+  },
+  {
+    "id": "usb000t245",
+    "latitude": 64.351,
+    "longitude": -17.9054,
+    "value": 4.2
+  },
+  {
+    "id": "usc000sxve",
+    "latitude": 64.531,
+    "longitude": -17.8288,
+    "value": 4.4
+  },
+  {
+    "id": "usc000sxxe",
+    "latitude": 64.4368,
+    "longitude": -17.8506,
+    "value": 4.4
+  },
+  {
+    "id": "usc000sxqj",
+    "latitude": 64.5968,
+    "longitude": -17.6776,
+    "value": 5.3
+  },
+  {
+    "id": "usb000t0qg",
+    "latitude": 64.5184,
+    "longitude": -17.738,
+    "value": 4.5
+  },
+  {
+    "id": "usb000t0qf",
+    "latitude": 64.6376,
+    "longitude": -17.8829,
+    "value": 4.3
+  },
+  {
+    "id": "usc000sxky",
+    "latitude": 64.5536,
+    "longitude": -17.6952,
+    "value": 4.5
+  },
+  {
+    "id": "usb000t0r8",
+    "latitude": 64.4459,
+    "longitude": -18.1663,
+    "value": 4.1
+  },
+  {
+    "id": "usc000sx8r",
+    "latitude": 64.5389,
+    "longitude": -17.2727,
+    "value": 5.2
+  },
+  {
+    "id": "usb000t0hk",
+    "latitude": 64.5148,
+    "longitude": -17.8188,
+    "value": 4.7
+  },
+  {
+    "id": "usb000t0hj",
+    "latitude": 64.5411,
+    "longitude": -17.8023,
+    "value": 4.3
+  },
+  {
+    "id": "usc000sx64",
+    "latitude": 64.6402,
+    "longitude": -17.4989,
+    "value": 4.6
+  },
+  {
+    "id": "usc000sx3j",
+    "latitude": 64.6165,
+    "longitude": -17.9692,
+    "value": 4.5
+  },
+  {
+    "id": "usb000t0ge",
+    "latitude": 64.4456,
+    "longitude": -17.686,
+    "value": 4.3
+  },
+  {
+    "id": "usb000t0fv",
+    "latitude": 64.6353,
+    "longitude": -17.6366,
+    "value": 4.3
+  },
+  {
+    "id": "usc000swt9",
+    "latitude": 64.631,
+    "longitude": -17.9095,
+    "value": 4.7
+  },
+  {
+    "id": "usb000szxr",
+    "latitude": 64.4683,
+    "longitude": -17.7081,
+    "value": 4.5
+  },
+  {
+    "id": "usc000sws0",
+    "latitude": 64.6362,
+    "longitude": -17.757,
+    "value": 4.4
+  },
+  {
+    "id": "usc000swrb",
+    "latitude": 64.4202,
+    "longitude": -17.5814,
+    "value": 4.5
+  },
+  {
+    "id": "usb000szxi",
+    "latitude": 64.5446,
+    "longitude": -17.7921,
+    "value": 4.3
+  },
+  {
+    "id": "usb000szy0",
+    "latitude": 64.4895,
+    "longitude": -17.8029,
+    "value": 4.2
+  },
+  {
+    "id": "usb000sytd",
+    "latitude": 64.46,
+    "longitude": -17.7569,
+    "value": 4.4
+  },
+  {
+    "id": "usc000swdi",
+    "latitude": 64.6479,
+    "longitude": -17.7753,
+    "value": 4.4
+  },
+  {
+    "id": "usb000syta",
+    "latitude": 64.6099,
+    "longitude": -17.546,
+    "value": 4.4
+  },
+  {
+    "id": "usc000sw6j",
+    "latitude": 64.6132,
+    "longitude": -17.7399,
+    "value": 4.5
+  },
+  {
+    "id": "usc000sw62",
+    "latitude": 64.5681,
+    "longitude": -17.587,
+    "value": 4.6
+  },
+  {
+    "id": "usc000sw5b",
+    "latitude": 64.6504,
+    "longitude": -17.7836,
+    "value": 4.8
+  },
+  {
+    "id": "usb000syli",
+    "latitude": 64.5534,
+    "longitude": -17.7133,
+    "value": 4.3
+  },
+  {
+    "id": "usb000syld",
+    "latitude": 64.5321,
+    "longitude": -17.5828,
+    "value": 4.2
+  },
+  {
+    "id": "usc000svwg",
+    "latitude": 64.5557,
+    "longitude": -17.4654,
+    "value": 5.4
+  },
+  {
+    "id": "usb000syst",
+    "latitude": 64.7093,
+    "longitude": -17.6542,
+    "value": 4.7
+  },
+  {
+    "id": "usb000sysq",
+    "latitude": 64.6129,
+    "longitude": -17.7573,
+    "value": 4.5
+  },
+  {
+    "id": "usb000sys5",
+    "latitude": 64.5935,
+    "longitude": -17.8263,
+    "value": 4.5
+  },
+  {
+    "id": "usb000sysd",
+    "latitude": 64.5343,
+    "longitude": -17.6835,
+    "value": 4
+  },
+  {
+    "id": "usc000svsk",
+    "latitude": 64.5374,
+    "longitude": -17.6007,
+    "value": 4.4
+  },
+  {
+    "id": "usc000svr3",
+    "latitude": 64.6533,
+    "longitude": -17.3271,
+    "value": 4.6
+  },
+  {
+    "id": "usb000sy8f",
+    "latitude": 64.6177,
+    "longitude": -17.6772,
+    "value": 4.4
+  },
+  {
+    "id": "usb000sy8z",
+    "latitude": 64.721,
+    "longitude": -18.778,
+    "value": 4.5
+  },
+  {
+    "id": "usb000sy97",
+    "latitude": 64.6189,
+    "longitude": -17.5446,
+    "value": 4.3
+  },
+  {
+    "id": "usc000svka",
+    "latitude": 64.5698,
+    "longitude": -17.6853,
+    "value": 4.5
+  },
+  {
+    "id": "usc000syxf",
+    "latitude": 64.5946,
+    "longitude": -17.7551,
+    "value": 4.5
+  },
+  {
+    "id": "usc000syx5",
+    "latitude": 64.4748,
+    "longitude": -17.1806,
+    "value": 4.4
+  },
+  {
+    "id": "usc000syx4",
+    "latitude": 64.4427,
+    "longitude": -17.8069,
+    "value": 4.3
+  },
+  {
+    "id": "usc000svaq",
+    "latitude": 64.5865,
+    "longitude": -17.5343,
+    "value": 5.2
+  },
+  {
+    "id": "usc000sywj",
+    "latitude": 64.5284,
+    "longitude": -17.7126,
+    "value": 4.4
+  },
+  {
+    "id": "usc000syh0",
+    "latitude": 64.5106,
+    "longitude": -17.8232,
+    "value": 4.5
+  },
+  {
+    "id": "usc000sv3u",
+    "latitude": 64.6189,
+    "longitude": -17.3218,
+    "value": 4.7
+  },
+  {
+    "id": "usc000suxx",
+    "latitude": 64.4618,
+    "longitude": -17.7044,
+    "value": 4.5
+  },
+  {
+    "id": "usc000syhg",
+    "latitude": 64.5272,
+    "longitude": -17.6482,
+    "value": 4.3
+  },
+  {
+    "id": "usc000syha",
+    "latitude": 64.569,
+    "longitude": -17.7856,
+    "value": 4.3
+  },
+  {
+    "id": "usc000syg7",
+    "latitude": 64.5449,
+    "longitude": -17.6162,
+    "value": 4.5
+  },
+  {
+    "id": "usc000syg4",
+    "latitude": 64.5455,
+    "longitude": -17.7512,
+    "value": 4.5
+  },
+  {
+    "id": "usc000syge",
+    "latitude": 64.5591,
+    "longitude": -17.6301,
+    "value": 4.4
+  },
+  {
+    "id": "usc000syfj",
+    "latitude": 64.4491,
+    "longitude": -17.6581,
+    "value": 4.6
+  },
+  {
+    "id": "usc000syf7",
+    "latitude": 64.6811,
+    "longitude": -17.7716,
+    "value": 4.5
+  },
+  {
+    "id": "usc000sudf",
+    "latitude": 64.6157,
+    "longitude": -17.7983,
+    "value": 4.7
+  },
+  {
+    "id": "usc000sub6",
+    "latitude": 64.5613,
+    "longitude": -17.5314,
+    "value": 4.6
+  },
+  {
+    "id": "usc000sy46",
+    "latitude": 64.5805,
+    "longitude": -17.5103,
+    "value": 4.5
+  },
+  {
+    "id": "usc000su0z",
+    "latitude": 64.5411,
+    "longitude": -17.5898,
+    "value": 4.7
+  },
+  {
+    "id": "usc000sy3t",
+    "latitude": 64.5152,
+    "longitude": -17.7487,
+    "value": 4.4
+  },
+  {
+    "id": "usc000sy3p",
+    "latitude": 64.4745,
+    "longitude": -17.5477,
+    "value": 4.4
+  },
+  {
+    "id": "usc000stsk",
+    "latitude": 64.5535,
+    "longitude": -17.6572,
+    "value": 4.7
+  },
+  {
+    "id": "usc000sxbc",
+    "latitude": 64.7115,
+    "longitude": -17.688,
+    "value": 4.4
+  },
+  {
+    "id": "usc000stl0",
+    "latitude": 64.6475,
+    "longitude": -17.547,
+    "value": 4.7
+  },
+  {
+    "id": "usc000sxb9",
+    "latitude": 64.2024,
+    "longitude": -17.716,
+    "value": 4.4
+  },
+  {
+    "id": "usc000sxan",
+    "latitude": 64.328,
+    "longitude": -17.9496,
+    "value": 4.1
+  },
+  {
+    "id": "usc000sxa7",
+    "latitude": 64.618,
+    "longitude": -17.7032,
+    "value": 4.2
+  },
+  {
+    "id": "usc000stie",
+    "latitude": 64.5674,
+    "longitude": -17.0651,
+    "value": 5.4
+  },
+  {
+    "id": "usc000sxax",
+    "latitude": 64.5536,
+    "longitude": -17.6531,
+    "value": 4.2
+  },
+  {
+    "id": "usc000sthj",
+    "latitude": 64.5903,
+    "longitude": -17.7552,
+    "value": 4.4
+  },
+  {
+    "id": "usc000stfe",
+    "latitude": 64.6013,
+    "longitude": -17.6938,
+    "value": 4.4
+  },
+  {
+    "id": "usc000stcm",
+    "latitude": 64.6353,
+    "longitude": -17.6826,
+    "value": 4.3
+  },
+  {
+    "id": "usc000stce",
+    "latitude": 64.3816,
+    "longitude": -17.6668,
+    "value": 4.3
+  },
+  {
+    "id": "usc000stba",
+    "latitude": 64.6342,
+    "longitude": -17.7241,
+    "value": 4.4
+  },
+  {
+    "id": "usc000st92",
+    "latitude": 64.621,
+    "longitude": -17.777,
+    "value": 5
+  },
+  {
+    "id": "usc000swll",
+    "latitude": 64.5784,
+    "longitude": -17.3611,
+    "value": 4.6
+  },
+  {
+    "id": "usc000st7t",
+    "latitude": 64.5639,
+    "longitude": -17.6154,
+    "value": 4.6
+  },
+  {
+    "id": "usc000swlx",
+    "latitude": 64.4524,
+    "longitude": -17.9631,
+    "value": 4.4
+  },
+  {
+    "id": "usb000srwk",
+    "latitude": 64.76,
+    "longitude": -17.2373,
+    "value": 5.2
+  },
+  {
+    "id": "usc000swhw",
+    "latitude": 64.439,
+    "longitude": -17.6507,
+    "value": 4.3
+  },
+  {
+    "id": "usb000srtp",
+    "latitude": 64.5198,
+    "longitude": -17.6586,
+    "value": 4.6
+  },
+  {
+    "id": "usb000srm5",
+    "latitude": 64.6106,
+    "longitude": -17.5801,
+    "value": 4.6
+  },
+  {
+    "id": "usb000srla",
+    "latitude": 64.5652,
+    "longitude": -17.3121,
+    "value": 4.5
+  },
+  {
+    "id": "usb000srkr",
+    "latitude": 64.5099,
+    "longitude": -17.8178,
+    "value": 4.3
+  },
+  {
+    "id": "usb000sre6",
+    "latitude": 64.62,
+    "longitude": -17.4682,
+    "value": 4.6
+  },
+  {
+    "id": "usb000srar",
+    "latitude": 64.5663,
+    "longitude": -17.5976,
+    "value": 4.7
+  },
+  {
+    "id": "usb000sr9y",
+    "latitude": 64.7014,
+    "longitude": -17.1822,
+    "value": 4.5
+  },
+  {
+    "id": "usc000sw20",
+    "latitude": 64.4737,
+    "longitude": -17.653,
+    "value": 4.6
+  },
+  {
+    "id": "usb000sr36",
+    "latitude": 64.4807,
+    "longitude": -17.4382,
+    "value": 4.4
+  },
+  {
+    "id": "usc000sw1q",
+    "latitude": 64.5236,
+    "longitude": -17.6013,
+    "value": 4.4
+  },
+  {
+    "id": "usb000sr1w",
+    "latitude": 64.6061,
+    "longitude": -17.5504,
+    "value": 4.7
+  },
+  {
+    "id": "usb000sr1t",
+    "latitude": 64.5699,
+    "longitude": -17.5952,
+    "value": 4.8
+  },
+  {
+    "id": "usc000sw1a",
+    "latitude": 64.5387,
+    "longitude": -17.7199,
+    "value": 4.3
+  },
+  {
+    "id": "usc000svf4",
+    "latitude": 64.5531,
+    "longitude": -17.7758,
+    "value": 4.6
+  },
+  {
+    "id": "usc000svef",
+    "latitude": 64.6267,
+    "longitude": -17.6536,
+    "value": 4.1
+  },
+  {
+    "id": "usb000sqtg",
+    "latitude": 64.5097,
+    "longitude": -17.8011,
+    "value": 4.8
+  },
+  {
+    "id": "usc000sve0",
+    "latitude": 64.4137,
+    "longitude": -17.7714,
+    "value": 4.3
+  },
+  {
+    "id": "usb000sqpv",
+    "latitude": 64.5311,
+    "longitude": -17.324,
+    "value": 5.3
+  },
+  {
+    "id": "usc000sv30",
+    "latitude": 64.4639,
+    "longitude": -17.9895,
+    "value": 4.1
+  },
+  {
+    "id": "usb000sqnj",
+    "latitude": 64.6516,
+    "longitude": -17.5814,
+    "value": 4.6
+  },
+  {
+    "id": "usc000sv1q",
+    "latitude": 64.6949,
+    "longitude": -17.2409,
+    "value": 4.6
+  },
+  {
+    "id": "usb000sqj3",
+    "latitude": 64.6077,
+    "longitude": -17.4497,
+    "value": 4.6
+  },
+  {
+    "id": "usc000sv24",
+    "latitude": 64.4771,
+    "longitude": -17.736,
+    "value": 4.3
+  },
+  {
+    "id": "usb000sqgw",
+    "latitude": 64.4457,
+    "longitude": -17.6238,
+    "value": 5
+  },
+  {
+    "id": "usb000sqb0",
+    "latitude": 64.4885,
+    "longitude": -17.809,
+    "value": 4.2
+  },
+  {
+    "id": "usb000sqa9",
+    "latitude": 64.6567,
+    "longitude": -17.2531,
+    "value": 4.8
+  },
+  {
+    "id": "usb000sqac",
+    "latitude": 64.6004,
+    "longitude": -17.4908,
+    "value": 4.6
+  },
+  {
+    "id": "usb000sq7m",
+    "latitude": 64.6808,
+    "longitude": -17.4298,
+    "value": 4.6
+  },
+  {
+    "id": "usb000sq1s",
+    "latitude": 64.5792,
+    "longitude": -17.6296,
+    "value": 4.5
+  },
+  {
+    "id": "usc000sula",
+    "latitude": 64.6094,
+    "longitude": -17.5571,
+    "value": 4.5
+  },
+  {
+    "id": "usb000spz1",
+    "latitude": 64.5605,
+    "longitude": -17.4836,
+    "value": 4.6
+  },
+  {
+    "id": "usb000spxe",
+    "latitude": 64.6505,
+    "longitude": -17.5417,
+    "value": 4.6
+  },
+  {
+    "id": "usc000sumi",
+    "latitude": 64.4935,
+    "longitude": -17.6281,
+    "value": 4.5
+  },
+  {
+    "id": "usb000spqd",
+    "latitude": 64.6173,
+    "longitude": -17.5611,
+    "value": 4.6
+  },
+  {
+    "id": "usb000sppg",
+    "latitude": 64.6358,
+    "longitude": -17.3935,
+    "value": 4.7
+  },
+  {
+    "id": "usb000spp7",
+    "latitude": 64.5398,
+    "longitude": -17.7306,
+    "value": 4.7
+  },
+  {
+    "id": "usc000sum1",
+    "latitude": 64.7254,
+    "longitude": -17.7532,
+    "value": 4.5
+  },
+  {
+    "id": "usb000spjr",
+    "latitude": 64.5596,
+    "longitude": -17.8833,
+    "value": 4.6
+  },
+  {
+    "id": "usb000spe3",
+    "latitude": 64.5169,
+    "longitude": -17.1099,
+    "value": 5.2
+  },
+  {
+    "id": "usb000spe2",
+    "latitude": 64.6136,
+    "longitude": -17.4419,
+    "value": 4.6
+  },
+  {
+    "id": "usb000spbs",
+    "latitude": 64.5859,
+    "longitude": -17.6962,
+    "value": 4.5
+  },
+  {
+    "id": "usb000sp5z",
+    "latitude": 64.5882,
+    "longitude": -17.2396,
+    "value": 4.6
+  },
+  {
+    "id": "usb000sp5p",
+    "latitude": 64.6106,
+    "longitude": -17.4693,
+    "value": 4.6
+  },
+  {
+    "id": "usb000sp4p",
+    "latitude": 64.6648,
+    "longitude": -17.5866,
+    "value": 4.6
+  },
+  {
+    "id": "usb000sp3u",
+    "latitude": 64.5753,
+    "longitude": -17.4201,
+    "value": 4.3
+  },
+  {
+    "id": "usb000sp3a",
+    "latitude": 64.5855,
+    "longitude": -17.4443,
+    "value": 4.6
+  },
+  {
+    "id": "usb000sp1v",
+    "latitude": 64.6124,
+    "longitude": -17.7756,
+    "value": 4.4
+  },
+  {
+    "id": "usb000sp06",
+    "latitude": 64.6331,
+    "longitude": -17.4816,
+    "value": 4.5
+  },
+  {
+    "id": "usb000ss1m",
+    "latitude": 64.4404,
+    "longitude": -17.2968,
+    "value": 4
+  },
+  {
+    "id": "usb000snye",
+    "latitude": 64.6995,
+    "longitude": -17.4465,
+    "value": 4.8
+  },
+  {
+    "id": "usb000ss0w",
+    "latitude": 64.5375,
+    "longitude": -17.8175,
+    "value": 4.4
+  },
+  {
+    "id": "usb000snwq",
+    "latitude": 64.5794,
+    "longitude": -17.6024,
+    "value": 4.5
+  },
+  {
+    "id": "usb000snsb",
+    "latitude": 64.7254,
+    "longitude": -17.2768,
+    "value": 5.3
+  },
+  {
+    "id": "usb000snq5",
+    "latitude": 64.6177,
+    "longitude": -17.6449,
+    "value": 4.6
+  },
+  {
+    "id": "usb000srpy",
+    "latitude": 64.6273,
+    "longitude": -17.6541,
+    "value": 4.3
+  },
+  {
+    "id": "usb000snca",
+    "latitude": 64.6003,
+    "longitude": -17.5397,
+    "value": 4.6
+  },
+  {
+    "id": "usb000sn9i",
+    "latitude": 64.6369,
+    "longitude": -17.2366,
+    "value": 4.5
+  },
+  {
+    "id": "usb000sn71",
+    "latitude": 64.4803,
+    "longitude": -17.8386,
+    "value": 4.6
+  },
+  {
+    "id": "usb000smwn",
+    "latitude": 64.6624,
+    "longitude": -17.5007,
+    "value": 4.6
+  },
+  {
+    "id": "usb000smpm",
+    "latitude": 64.6175,
+    "longitude": -17.5353,
+    "value": 4.7
+  },
+  {
+    "id": "usb000smcv",
+    "latitude": 64.4814,
+    "longitude": -18.0043,
+    "value": 5.5
+  },
+  {
+    "id": "usb000sm7i",
+    "latitude": 64.6338,
+    "longitude": -17.4853,
+    "value": 4.6
+  },
+  {
+    "id": "usb000sm3z",
+    "latitude": 64.6479,
+    "longitude": -17.5133,
+    "value": 4.7
+  },
+  {
+    "id": "usb000sm1f",
+    "latitude": 64.6289,
+    "longitude": -17.5042,
+    "value": 4.6
+  },
+  {
+    "id": "usb000slyf",
+    "latitude": 64.4883,
+    "longitude": -17.8712,
+    "value": 4.5
+  },
+  {
+    "id": "usb000slvv",
+    "latitude": 64.6879,
+    "longitude": -17.5508,
+    "value": 4.7
+  },
+  {
+    "id": "usb000slpk",
+    "latitude": 64.648,
+    "longitude": -17.5143,
+    "value": 4.7
+  },
+  {
+    "id": "usb000slmi",
+    "latitude": 64.5621,
+    "longitude": -17.8399,
+    "value": 4.5
+  },
+  {
+    "id": "usb000sliv",
+    "latitude": 64.3668,
+    "longitude": -17.6107,
+    "value": 4.3
+  },
+  {
+    "id": "usb000slil",
+    "latitude": 64.6412,
+    "longitude": -17.4395,
+    "value": 4.6
+  },
+  {
+    "id": "usb000sldt",
+    "latitude": 64.5756,
+    "longitude": -17.764,
+    "value": 4.8
+  },
+  {
+    "id": "usb000sl9c",
+    "latitude": 64.6064,
+    "longitude": -17.5819,
+    "value": 4.6
+  },
+  {
+    "id": "usb000sl8u",
+    "latitude": 64.533,
+    "longitude": -17.6572,
+    "value": 5.1
+  },
+  {
+    "id": "usb000sq0a",
+    "latitude": 64.3551,
+    "longitude": -17.9128,
+    "value": 4.3
+  },
+  {
+    "id": "usb000sl4h",
+    "latitude": 64.5703,
+    "longitude": -17.5229,
+    "value": 4.5
+  },
+  {
+    "id": "usb000sl1m",
+    "latitude": 64.6752,
+    "longitude": -17.405,
+    "value": 4.7
+  },
+  {
+    "id": "usb000sky5",
+    "latitude": 64.6186,
+    "longitude": -17.5864,
+    "value": 4.5
+  },
+  {
+    "id": "usb000skw0",
+    "latitude": 64.6431,
+    "longitude": -17.6189,
+    "value": 4.7
+  },
+  {
+    "id": "usb000skmw",
+    "latitude": 64.7719,
+    "longitude": -17.5737,
+    "value": 4.8
+  },
+  {
+    "id": "usb000skis",
+    "latitude": 64.5691,
+    "longitude": -17.593,
+    "value": 4.5
+  },
+  {
+    "id": "usb000skft",
+    "latitude": 64.6209,
+    "longitude": -17.479,
+    "value": 4.7
+  },
+  {
+    "id": "usb000spfy",
+    "latitude": 64.5106,
+    "longitude": -17.9455,
+    "value": 4.6
+  },
+  {
+    "id": "usb000sk73",
+    "latitude": 64.5598,
+    "longitude": -17.5741,
+    "value": 4.8
+  },
+  {
+    "id": "usb000snhg",
+    "latitude": 64.6032,
+    "longitude": -17.8498,
+    "value": 4.6
+  },
+  {
+    "id": "usb000sjzr",
+    "latitude": 64.6021,
+    "longitude": -17.4972,
+    "value": 4.6
+  },
+  {
+    "id": "usb000sjhk",
+    "latitude": 64.5298,
+    "longitude": -17.1994,
+    "value": 5.5
+  },
+  {
+    "id": "usb000sjf2",
+    "latitude": 64.6614,
+    "longitude": -17.8463,
+    "value": 4.7
+  },
+  {
+    "id": "usb000snf4",
+    "latitude": 64.6097,
+    "longitude": -17.646,
+    "value": 4.4
+  },
+  {
+    "id": "usb000sjah",
+    "latitude": 64.6181,
+    "longitude": -17.4453,
+    "value": 4.6
+  },
+  {
+    "id": "usb000snd1",
+    "latitude": 64.5494,
+    "longitude": -17.7548,
+    "value": 4.5
+  },
+  {
+    "id": "usb000sj57",
+    "latitude": 64.6403,
+    "longitude": -17.4566,
+    "value": 4.6
+  },
+  {
+    "id": "usb000siz3",
+    "latitude": 64.5896,
+    "longitude": -17.3642,
+    "value": 4.9
+  },
+  {
+    "id": "usb000siy5",
+    "latitude": 64.5776,
+    "longitude": -17.5548,
+    "value": 4.5
+  },
+  {
+    "id": "usb000siw5",
+    "latitude": 64.6042,
+    "longitude": -17.5755,
+    "value": 4.4
+  },
+  {
+    "id": "usb000sit7",
+    "latitude": 64.6536,
+    "longitude": -17.5307,
+    "value": 4.8
+  },
+  {
+    "id": "usb000sird",
+    "latitude": 64.6203,
+    "longitude": -17.5307,
+    "value": 4.9
+  },
+  {
+    "id": "usb000siq7",
+    "latitude": 64.5313,
+    "longitude": -17.7787,
+    "value": 4.6
+  },
+  {
+    "id": "usb000sipc",
+    "latitude": 64.362,
+    "longitude": -17.744,
+    "value": 4.7
+  },
+  {
+    "id": "usb000smeu",
+    "latitude": 64.3133,
+    "longitude": -18.2422,
+    "value": 4.5
+  },
+  {
+    "id": "usb000smej",
+    "latitude": 64.6788,
+    "longitude": -17.5131,
+    "value": 4.5
+  },
+  {
+    "id": "usb000sih2",
+    "latitude": 64.6141,
+    "longitude": -17.5472,
+    "value": 4.7
+  },
+  {
+    "id": "usb000sid1",
+    "latitude": 64.6103,
+    "longitude": -17.5157,
+    "value": 4.8
+  },
+  {
+    "id": "usb000sm0s",
+    "latitude": 64.4168,
+    "longitude": -18.1164,
+    "value": 4.4
+  },
+  {
+    "id": "usb000si4d",
+    "latitude": 64.4518,
+    "longitude": -17.8099,
+    "value": 4.5
+  },
+  {
+    "id": "usb000si2s",
+    "latitude": 64.634,
+    "longitude": -17.4635,
+    "value": 4.6
+  },
+  {
+    "id": "usb000si1b",
+    "latitude": 64.5978,
+    "longitude": -17.6197,
+    "value": 4.9
+  },
+  {
+    "id": "usb000shuf",
+    "latitude": 64.6446,
+    "longitude": -17.5005,
+    "value": 4.6
+  },
+  {
+    "id": "usb000shp1",
+    "latitude": 64.53,
+    "longitude": -17.9574,
+    "value": 4.4
+  },
+  {
+    "id": "usb000skr1",
+    "latitude": 64.5609,
+    "longitude": -17.7804,
+    "value": 4.6
+  },
+  {
+    "id": "usb000shga",
+    "latitude": 64.5568,
+    "longitude": -17.3687,
+    "value": 4.6
+  },
+  {
+    "id": "usb000shc8",
+    "latitude": 64.5774,
+    "longitude": -17.882,
+    "value": 4.6
+  },
+  {
+    "id": "usb000skny",
+    "latitude": 64.4994,
+    "longitude": -17.8963,
+    "value": 4.5
+  },
+  {
+    "id": "usb000sh06",
+    "latitude": 64.5075,
+    "longitude": -17.315,
+    "value": 5.6
+  },
+  {
+    "id": "usb000sk97",
+    "latitude": 64.6526,
+    "longitude": -17.7331,
+    "value": 4.1
+  },
+  {
+    "id": "usb000sgyl",
+    "latitude": 64.6666,
+    "longitude": -17.4701,
+    "value": 4.8
+  },
+  {
+    "id": "usb000sgvl",
+    "latitude": 64.6353,
+    "longitude": -17.6219,
+    "value": 4.7
+  },
+  {
+    "id": "usb000sgrt",
+    "latitude": 64.6287,
+    "longitude": -17.5641,
+    "value": 4.8
+  },
+  {
+    "id": "usb000sjws",
+    "latitude": 64.6071,
+    "longitude": -17.5876,
+    "value": 4.4
+  },
+  {
+    "id": "usb000sgmz",
+    "latitude": 64.5888,
+    "longitude": -17.815,
+    "value": 4.8
+  },
+  {
+    "id": "usb000sjwb",
+    "latitude": 64.5735,
+    "longitude": -17.6526,
+    "value": 4.2
+  },
+  {
+    "id": "usb000sgfk",
+    "latitude": 64.5604,
+    "longitude": -17.4878,
+    "value": 4.9
+  },
+  {
+    "id": "usb000sjh3",
+    "latitude": 64.5572,
+    "longitude": -17.8578,
+    "value": 4.3
+  },
+  {
+    "id": "usb000sfyc",
+    "latitude": 64.6038,
+    "longitude": -17.4272,
+    "value": 4.7
+  },
+  {
+    "id": "usb000sjgk",
+    "latitude": 64.5817,
+    "longitude": -17.6649,
+    "value": 4.3
+  },
+  {
+    "id": "usb000sfsh",
+    "latitude": 64.5055,
+    "longitude": -17.5066,
+    "value": 5.2
+  },
+  {
+    "id": "usb000sfqz",
+    "latitude": 64.6342,
+    "longitude": -17.5823,
+    "value": 4.9
+  },
+  {
+    "id": "usb000sfh6",
+    "latitude": 64.653,
+    "longitude": -17.5125,
+    "value": 4.9
+  },
+  {
+    "id": "usb000sf8l",
+    "latitude": 64.6788,
+    "longitude": -17.5391,
+    "value": 4.4
+  },
+  {
+    "id": "usb000sf5v",
+    "latitude": 64.8846,
+    "longitude": -17.5047,
+    "value": 5.1
+  },
+  {
+    "id": "usb000sf0e",
+    "latitude": 64.6235,
+    "longitude": -17.8436,
+    "value": 4.3
+  },
+  {
+    "id": "usb000sexe",
+    "latitude": 64.5887,
+    "longitude": -17.7522,
+    "value": 4.4
+  },
+  {
+    "id": "usb000sewt",
+    "latitude": 64.4807,
+    "longitude": -17.6938,
+    "value": 4.6
+  },
+  {
+    "id": "usb000sepm",
+    "latitude": 64.5212,
+    "longitude": -17.3866,
+    "value": 5.4
+  },
+  {
+    "id": "usb000sepa",
+    "latitude": 64.5983,
+    "longitude": -17.833,
+    "value": 4.3
+  },
+  {
+    "id": "usb000sem4",
+    "latitude": 64.6819,
+    "longitude": -17.548,
+    "value": 4.4
+  },
+  {
+    "id": "usb000seif",
+    "latitude": 64.6444,
+    "longitude": -17.3839,
+    "value": 4.8
+  },
+  {
+    "id": "usb000shcy",
+    "latitude": 64.4381,
+    "longitude": -17.8341,
+    "value": 4.3
+  },
+  {
+    "id": "usb000sees",
+    "latitude": 64.6912,
+    "longitude": -17.2269,
+    "value": 5
+  },
+  {
+    "id": "usb000sh23",
+    "latitude": 64.5674,
+    "longitude": -17.7245,
+    "value": 4.5
+  },
+  {
+    "id": "usb000sdyi",
+    "latitude": 64.6984,
+    "longitude": -17.162,
+    "value": 5.3
+  },
+  {
+    "id": "usb000sdta",
+    "latitude": 64.7299,
+    "longitude": -17.7502,
+    "value": 4.6
+  },
+  {
+    "id": "usb000sdl8",
+    "latitude": 64.487,
+    "longitude": -17.8575,
+    "value": 4.6
+  },
+  {
+    "id": "usb000sd7k",
+    "latitude": 64.6493,
+    "longitude": -17.4933,
+    "value": 5.1
+  },
+  {
+    "id": "usb000sczi",
+    "latitude": 64.5662,
+    "longitude": -17.515,
+    "value": 4.6
+  },
+  {
+    "id": "usb000sgb4",
+    "latitude": 64.485,
+    "longitude": -17.9341,
+    "value": 4
+  },
+  {
+    "id": "usb000scfz",
+    "latitude": 64.5728,
+    "longitude": -17.3974,
+    "value": 5.5
+  },
+  {
+    "id": "usb000scae",
+    "latitude": 64.566,
+    "longitude": -17.6466,
+    "value": 4.6
+  },
+  {
+    "id": "usb000sfl9",
+    "latitude": 64.3467,
+    "longitude": -17.9633,
+    "value": 4.1
+  },
+  {
+    "id": "usb000sc2f",
+    "latitude": 64.6764,
+    "longitude": -17.4362,
+    "value": 5
+  },
+  {
+    "id": "usb000sc0e",
+    "latitude": 64.6184,
+    "longitude": -17.6543,
+    "value": 4.6
+  },
+  {
+    "id": "usb000sf6t",
+    "latitude": 64.6601,
+    "longitude": -17.5812,
+    "value": 4.5
+  },
+  {
+    "id": "usb000sbh0",
+    "latitude": 64.6308,
+    "longitude": -17.5574,
+    "value": 5.1
+  },
+  {
+    "id": "usb000sbdn",
+    "latitude": 64.5569,
+    "longitude": -17.8721,
+    "value": 4.1
+  },
+  {
+    "id": "usb000sb8r",
+    "latitude": 64.5326,
+    "longitude": -17.3433,
+    "value": 5.3
+  },
+  {
+    "id": "usb000sayy",
+    "latitude": 64.6756,
+    "longitude": -17.6123,
+    "value": 4.9
+  },
+  {
+    "id": "usb000sal7",
+    "latitude": 64.666,
+    "longitude": -17.374,
+    "value": 5.2
+  },
+  {
+    "id": "usb000sdjj",
+    "latitude": 64.7667,
+    "longitude": -16.9932,
+    "value": 4.2
+  },
+  {
+    "id": "usb000sacd",
+    "latitude": 64.7008,
+    "longitude": -17.58,
+    "value": 4.6
+  },
+  {
+    "id": "usb000sa9q",
+    "latitude": 64.4575,
+    "longitude": -17.6073,
+    "value": 4.5
+  },
+  {
+    "id": "usb000sa9k",
+    "latitude": 64.6935,
+    "longitude": -17.715,
+    "value": 4.4
+  },
+  {
+    "id": "usb000sa3x",
+    "latitude": 64.5442,
+    "longitude": -17.395,
+    "value": 5.5
+  },
+  {
+    "id": "usb000sa65",
+    "latitude": 64.6767,
+    "longitude": -17.6381,
+    "value": 4.3
+  },
+  {
+    "id": "usb000sd1u",
+    "latitude": 64.4357,
+    "longitude": -17.7916,
+    "value": 4
+  },
+  {
+    "id": "usb000s9va",
+    "latitude": 64.7001,
+    "longitude": -17.4281,
+    "value": 4.8
+  },
+  {
+    "id": "usb000sd0z",
+    "latitude": 64.6047,
+    "longitude": -17.7724,
+    "value": 4.4
+  },
+  {
+    "id": "usb000s9cv",
+    "latitude": 64.6788,
+    "longitude": -17.2428,
+    "value": 5.3
+  },
+  {
+    "id": "usb000sckk",
+    "latitude": 64.3405,
+    "longitude": -17.8353,
+    "value": 4.2
+  },
+  {
+    "id": "usb000s9bx",
+    "latitude": 64.5433,
+    "longitude": -17.5292,
+    "value": 4.3
+  },
+  {
+    "id": "usc000s9uv",
+    "latitude": 64.5509,
+    "longitude": -17.7607,
+    "value": 4.3
+  },
+  {
+    "id": "usc000s96j",
+    "latitude": 64.7055,
+    "longitude": -17.4648,
+    "value": 5.4
+  },
+  {
+    "id": "usc000s95r",
+    "latitude": 64.6507,
+    "longitude": -17.6617,
+    "value": 4.6
+  },
+  {
+    "id": "usc000s8x0",
+    "latitude": 64.5586,
+    "longitude": -17.371,
+    "value": 4.5
+  },
+  {
+    "id": "usc000s8wn",
+    "latitude": 64.6642,
+    "longitude": -17.4652,
+    "value": 4.5
+  },
+  {
+    "id": "usc000s8ny",
+    "latitude": 64.681,
+    "longitude": -17.495,
+    "value": 5.5
+  },
+  {
+    "id": "usc000s8ng",
+    "latitude": 64.6045,
+    "longitude": -17.598,
+    "value": 4.9
+  },
+  {
+    "id": "usb000sbp3",
+    "latitude": 64.5122,
+    "longitude": -17.7682,
+    "value": 4.3
+  },
+  {
+    "id": "usc000s8hy",
+    "latitude": 64.6491,
+    "longitude": -17.5222,
+    "value": 4.7
+  },
+  {
+    "id": "usc000s8gd",
+    "latitude": 64.6449,
+    "longitude": -17.4576,
+    "value": 5.1
+  },
+  {
+    "id": "usc000s88v",
+    "latitude": 64.5926,
+    "longitude": -17.4932,
+    "value": 5.4
+  },
+  {
+    "id": "usb000sb2r",
+    "latitude": 64.5495,
+    "longitude": -17.9145,
+    "value": 4.2
+  },
+  {
+    "id": "usc000s7zs",
+    "latitude": 64.7226,
+    "longitude": -17.3446,
+    "value": 5.4
+  },
+  {
+    "id": "usb000sb0z",
+    "latitude": 64.5639,
+    "longitude": -17.7685,
+    "value": 4.3
+  },
+  {
+    "id": "usc000s7ks",
+    "latitude": 64.6928,
+    "longitude": -17.3877,
+    "value": 5.4
+  },
+  {
+    "id": "usb000sapk",
+    "latitude": 64.5699,
+    "longitude": -17.8074,
+    "value": 4.2
+  },
+  {
+    "id": "usb000sapa",
+    "latitude": 64.5188,
+    "longitude": -17.756,
+    "value": 4
+  },
+  {
+    "id": "usc000s7ih",
+    "latitude": 64.6101,
+    "longitude": -17.6711,
+    "value": 4.5
+  },
+  {
+    "id": "usc000s7bm",
+    "latitude": 64.446,
+    "longitude": -17.648,
+    "value": 5.3
+  },
+  {
+    "id": "usc000s7bj",
+    "latitude": 65.0052,
+    "longitude": -16.9166,
+    "value": 4.5
+  },
+  {
+    "id": "usc000s7al",
+    "latitude": 64.5336,
+    "longitude": -17.7281,
+    "value": 5.3
+  },
+  {
+    "id": "usb000s9rn",
+    "latitude": 64.6564,
+    "longitude": -17.149,
+    "value": 4.2
+  },
+  {
+    "id": "usb000s65z",
+    "latitude": 64.6384,
+    "longitude": -17.5183,
+    "value": 5.3
+  },
+  {
+    "id": "usb000s9qu",
+    "latitude": 64.593,
+    "longitude": -17.4885,
+    "value": 4.2
+  },
+  {
+    "id": "usb000s61f",
+    "latitude": 64.4529,
+    "longitude": -17.7765,
+    "value": 5
+  },
+  {
+    "id": "usb000s5wd",
+    "latitude": 64.5645,
+    "longitude": -17.457,
+    "value": 5.3
+  },
+  {
+    "id": "usb000s5v5",
+    "latitude": 64.5267,
+    "longitude": -17.41,
+    "value": 4.8
+  },
+  {
+    "id": "usb000s5t3",
+    "latitude": 64.5178,
+    "longitude": -17.5417,
+    "value": 4.9
+  },
+  {
+    "id": "usb000s5s0",
+    "latitude": 64.6693,
+    "longitude": -17.4474,
+    "value": 5.3
+  },
+  {
+    "id": "usb000s5q5",
+    "latitude": 64.7515,
+    "longitude": -17.3761,
+    "value": 4.7
+  },
+  {
+    "id": "usb000s5qr",
+    "latitude": 64.665,
+    "longitude": -17.505,
+    "value": 4.3
+  },
+  {
+    "id": "usb000s5e5",
+    "latitude": 64.5081,
+    "longitude": -17.7576,
+    "value": 4.3
+  },
+  {
+    "id": "usb000s569",
+    "latitude": 64.5099,
+    "longitude": -17.6125,
+    "value": 4.8
+  },
+  {
+    "id": "usb000s545",
+    "latitude": 64.2029,
+    "longitude": -18.3494,
+    "value": 4.4
+  },
+  {
+    "id": "usc000s7mp",
+    "latitude": 64.2674,
+    "longitude": -17.853,
+    "value": 4
+  },
+  {
+    "id": "usc000rass",
+    "latitude": 64.6385,
+    "longitude": -17.6757,
+    "value": 4.3
+  },
+  {
+    "id": "usb000r15n",
+    "latitude": 65.2304,
+    "longitude": -16.4572,
+    "value": 4
+  },
+  {
+    "id": "usb000kc66",
+    "latitude": 63.7251,
+    "longitude": -22.6586,
+    "value": 4.8
+  },
+  {
+    "id": "usc000gsmf",
+    "latitude": 63.758,
+    "longitude": -23.128,
+    "value": 4.1
+  },
+  {
+    "id": "usc000gs7g",
+    "latitude": 63.753,
+    "longitude": -23.083,
+    "value": 4.6
+  },
+  {
+    "id": "usc000gs0s",
+    "latitude": 63.932,
+    "longitude": -23.236,
+    "value": 4.5
+  },
+  {
+    "id": "usc000grt3",
+    "latitude": 63.984,
+    "longitude": -22.98,
+    "value": 4.4
+  },
+  {
+    "id": "us2013npaz",
+    "latitude": 66.384,
+    "longitude": -17.708,
+    "value": 4.2
+  },
+  {
+    "id": "us2013nmdi",
+    "latitude": 66.358,
+    "longitude": -17.304,
+    "value": 4.2
+  },
+  {
+    "id": "us2013nmba",
+    "latitude": 66.289,
+    "longitude": -17.14,
+    "value": 4.1
+  },
+  {
+    "id": "usp000k014",
+    "latitude": 66.504,
+    "longitude": -17.84,
+    "value": 4.1
+  },
+  {
+    "id": "usb000fy06",
+    "latitude": 66.511,
+    "longitude": -17.489,
+    "value": 4.7
+  },
+  {
+    "id": "usp000k00r",
+    "latitude": 66.408,
+    "longitude": -17.51,
+    "value": 4.3
+  },
+  {
+    "id": "usb000fxws",
+    "latitude": 66.426,
+    "longitude": -17.599,
+    "value": 5.3
+  },
+  {
+    "id": "usp000ju82",
+    "latitude": 66.309,
+    "longitude": -18.666,
+    "value": 5.5
+  },
+  {
+    "id": "usp000ju81",
+    "latitude": 66.013,
+    "longitude": -18.68,
+    "value": 4.1
+  },
+  {
+    "id": "usp000ju7x",
+    "latitude": 66.37,
+    "longitude": -18.569,
+    "value": 5.3
+  },
+  {
+    "id": "usp000ju7v",
+    "latitude": 66.165,
+    "longitude": -18.678,
+    "value": 4.1
+  },
+  {
+    "id": "usp000jsmp",
+    "latitude": 66.193,
+    "longitude": -19.044,
+    "value": 4.8
+  },
+  {
+    "id": "usp000jsk0",
+    "latitude": 66.301,
+    "longitude": -18.721,
+    "value": 4.3
+  },
+  {
+    "id": "usp000jsjy",
+    "latitude": 66.498,
+    "longitude": -18.58,
+    "value": 4.4
+  },
+  {
+    "id": "usp000jr4v",
+    "latitude": 63.935,
+    "longitude": -21.645,
+    "value": 4.2
+  },
+  {
+    "id": "usp000jqe0",
+    "latitude": 63.568,
+    "longitude": -19.028,
+    "value": 4.3
+  },
+  {
+    "id": "usp000j1yq",
+    "latitude": 64.302,
+    "longitude": -17.282,
+    "value": 4.4
+  },
+  {
+    "id": "usp000hz70",
+    "latitude": 64.355,
+    "longitude": -17.57,
+    "value": 4.5
+  },
+  {
+    "id": "usp000hv1t",
+    "latitude": 64.344,
+    "longitude": -17.441,
+    "value": 4.2
+  },
+  {
+    "id": "usp000ht0p",
+    "latitude": 64.367,
+    "longitude": -17.392,
+    "value": 4.2
+  },
+  {
+    "id": "usp000hnff",
+    "latitude": 63.362,
+    "longitude": -23.978,
+    "value": 5.2
+  },
+  {
+    "id": "usp000hnfb",
+    "latitude": 63.486,
+    "longitude": -23.799,
+    "value": 5.1
+  },
+  {
+    "id": "usp000hnfa",
+    "latitude": 63.348,
+    "longitude": -24.043,
+    "value": 4.9
+  },
+  {
+    "id": "usp000hnf9",
+    "latitude": 63.491,
+    "longitude": -23.967,
+    "value": 4.5
+  },
+  {
+    "id": "usp000h3mt",
+    "latitude": 63.599,
+    "longitude": -22.967,
+    "value": 4.6
+  },
+  {
+    "id": "usp000h3mj",
+    "latitude": 63.556,
+    "longitude": -23.434,
+    "value": 4.5
+  },
+  {
+    "id": "usp000h3mg",
+    "latitude": 63.877,
+    "longitude": -23.626,
+    "value": 4.5
+  },
+  {
+    "id": "usp000gykq",
+    "latitude": 63.961,
+    "longitude": -21.99,
+    "value": 4.4
+  },
+  {
+    "id": "usp000gycw",
+    "latitude": 63.916,
+    "longitude": -22.086,
+    "value": 4.5
+  },
+  {
+    "id": "usp000gxpy",
+    "latitude": 63.936,
+    "longitude": -22.265,
+    "value": 4.5
+  },
+  {
+    "id": "usp000gxnx",
+    "latitude": 63.924,
+    "longitude": -22.24,
+    "value": 4.8
+  },
+  {
+    "id": "usp000gugm",
+    "latitude": 64.331,
+    "longitude": -17.717,
+    "value": 4.7
+  },
+  {
+    "id": "usp000gd0e",
+    "latitude": 66.467,
+    "longitude": -17.689,
+    "value": 4.2
+  },
+  {
+    "id": "usp000gd06",
+    "latitude": 66.438,
+    "longitude": -17.624,
+    "value": 4.3
+  },
+  {
+    "id": "usp000g829",
+    "latitude": 63.971,
+    "longitude": -21.146,
+    "value": 3.7
+  },
+  {
+    "id": "usp000g828",
+    "latitude": 64.031,
+    "longitude": -21.199,
+    "value": 4
+  },
+  {
+    "id": "usp000g826",
+    "latitude": 64.005,
+    "longitude": -21.013,
+    "value": 6.3
+  },
+  {
+    "id": "usp000ftby",
+    "latitude": 64.969,
+    "longitude": -20.066,
+    "value": 4.2
+  },
+  {
+    "id": "usp000fb6g",
+    "latitude": 66.956,
+    "longitude": -19.022,
+    "value": 4.2
+  },
+  {
+    "id": "usp000f98k",
+    "latitude": 63.76,
+    "longitude": -23.066,
+    "value": 4.1
+  },
+  {
+    "id": "usp000f98j",
+    "latitude": 63.939,
+    "longitude": -23.29,
+    "value": 3.9
+  },
+  {
+    "id": "usp000f5rj",
+    "latitude": 63.3,
+    "longitude": -24.054,
+    "value": 4.6
+  },
+  {
+    "id": "usp000f5rh",
+    "latitude": 63.484,
+    "longitude": -24.038,
+    "value": 4.4
+  },
+  {
+    "id": "usp000f5rf",
+    "latitude": 63.295,
+    "longitude": -23.926,
+    "value": 5
+  },
+  {
+    "id": "usp000f5rd",
+    "latitude": 63.297,
+    "longitude": -24.045,
+    "value": 4.9
+  },
+  {
+    "id": "usp000f5rb",
+    "latitude": 63.619,
+    "longitude": -23.946,
+    "value": 4.1
+  },
+  {
+    "id": "usp000ewdu",
+    "latitude": 66.084,
+    "longitude": -17.784,
+    "value": 4.2
+  },
+  {
+    "id": "usp000ebj2",
+    "latitude": 63.871,
+    "longitude": -22.104,
+    "value": 4.5
+  },
+  {
+    "id": "usp000ebfe",
+    "latitude": 66.914,
+    "longitude": -18.327,
+    "value": 4.2
+  },
+  {
+    "id": "usp000e8bm",
+    "latitude": 63.645,
+    "longitude": -23.91,
+    "value": 4.6
+  },
+  {
+    "id": "usp000dcm3",
+    "latitude": 66.33,
+    "longitude": -17.569,
+    "value": 4.3
+  },
+  {
+    "id": "usp000d7fy",
+    "latitude": 64.383,
+    "longitude": -17.636,
+    "value": 4
+  },
+  {
+    "id": "usp000d51u",
+    "latitude": 63.501,
+    "longitude": -23.916,
+    "value": 4.5
+  },
+  {
+    "id": "usp000czd7",
+    "latitude": 63.844,
+    "longitude": -19.096,
+    "value": 4.1
+  },
+  {
+    "id": "usp000cfs4",
+    "latitude": 63.329,
+    "longitude": -23.86,
+    "value": 4.6
+  },
+  {
+    "id": "usp000c5pp",
+    "latitude": 63.916,
+    "longitude": -22.26,
+    "value": 5.2
+  },
+  {
+    "id": "usp000bw1z",
+    "latitude": 63.545,
+    "longitude": -23.607,
+    "value": 4.3
+  },
+  {
+    "id": "usp000bhzn",
+    "latitude": 64.621,
+    "longitude": -17.193,
+    "value": 4.3
+  },
+  {
+    "id": "usp000bcga",
+    "latitude": 66.811,
+    "longitude": -18.539,
+    "value": 4.3
+  },
+  {
+    "id": "usp000bce2",
+    "latitude": 66.938,
+    "longitude": -18.456,
+    "value": 5.8
+  },
+  {
+    "id": "usp000b392",
+    "latitude": 63.397,
+    "longitude": -19.283,
+    "value": 4.3
+  },
+  {
+    "id": "usp000apen",
+    "latitude": 66.452,
+    "longitude": -16.858,
+    "value": 4.3
+  },
+  {
+    "id": "usp000a53h",
+    "latitude": 63.85,
+    "longitude": -23.095,
+    "value": 3.5
+  },
+  {
+    "id": "usp0009ux8",
+    "latitude": 63.98,
+    "longitude": -20.758,
+    "value": 6.5
+  },
+  {
+    "id": "usp0009urs",
+    "latitude": 64.023,
+    "longitude": -20.717,
+    "value": 4.5
+  },
+  {
+    "id": "usp0009urk",
+    "latitude": 64,
+    "longitude": -22.197,
+    "value": 4.9
+  },
+  {
+    "id": "usp0009urj",
+    "latitude": 63.965,
+    "longitude": -20.633,
+    "value": 5.7
+  },
+  {
+    "id": "usp0009urh",
+    "latitude": 63.966,
+    "longitude": -20.487,
+    "value": 6.5
+  }
+]

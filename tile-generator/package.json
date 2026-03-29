@@ -1,0 +1,23 @@
+{
+  "name": "tile-generator",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "generate:points": "node --import tsx src/generate-points.ts",
+    "generate:tiles": "node --import tsx src/generate-tiles.ts",
+    "generate": "npm run generate:points && npm run generate:tiles",
+    "preview": "node --import tsx src/server.ts",
+    "start": "node --import tsx src/server.ts"
+  },
+  "dependencies": {
+    "pngjs": "^7.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "@types/pngjs": "^6.0.5",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.2"
+  }
+}

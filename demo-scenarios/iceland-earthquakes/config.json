@@ -1,0 +1,32 @@
+{
+  "renderMode": "value",
+  "metric": {
+    "key": "earthquake_magnitude",
+    "label": "Earthquake Magnitude",
+    "unit": "Mw"
+  },
+  "valueScale": {
+    "mode": "manual",
+    "min": 3.5,
+    "max": 6.5,
+    "thresholds": [
+      3.5,
+      4,
+      4.5,
+      5,
+      5.5,
+      6,
+      6.5
+    ]
+  },
+  "zoom": {
+    "min": 5,
+    "max": 8
+  },
+  "bounds": {
+    "south": 63,
+    "west": -25,
+    "north": 67,
+    "east": -13
+  }
+}

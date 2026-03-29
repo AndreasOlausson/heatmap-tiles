@@ -1,0 +1,27 @@
+{
+  "renderMode": "value",
+  "metric": {
+    "key": "price_per_sqm",
+    "label": "Price per sqm",
+    "unit": "SEK/m²"
+  },
+  "valueScale": {
+    "mode": "manual",
+    "min": 25000,
+    "max": 65000,
+    "thresholds": [
+      25000,
+      35000,
+      45000,
+      55000,
+      60000,
+      65000
+    ]
+  },
+  "bounds": {
+    "south": 58.362053,
+    "west": 15.534133,
+    "north": 58.432778,
+    "east": 15.71052
+  }
+}
