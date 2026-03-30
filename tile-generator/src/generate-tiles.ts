@@ -1,6 +1,6 @@
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
-import { fileURLToPath } from 'node:url';
+import { fileURLToPath, pathToFileURL } from 'node:url';
 
 import { PNG } from 'pngjs';
 
@@ -40,6 +40,16 @@ interface TileJob {
   tilePath: string;
 }
 
+export interface GenerateTilesOptions {
+  outputDirectory?: string;
+  logger?: (message: string) => void;
+}
+
+export interface GenerateTilesPaths {
+  metadataPath: string;
+  tilesDirectory: string;
+}
+
 async function writeTile(tilePath: string, rgba: Uint8Array): Promise<void> {
   const png = new PNG({ width: TILE_SIZE, height: TILE_SIZE });
   png.data = Buffer.from(rgba);
@@ -70,16 +80,31 @@ async function runWithConcurrency<T>(
   await Promise.all(runners);
 }
 
-async function main(): Promise<void> {
-  const datasetJson = await readFile(datasetPath, 'utf8');
-  const dataset = JSON.parse(datasetJson) as PointsDataset;
+export async function loadPointsDataset(
+  pointsDatasetPath: string
+): Promise<PointsDataset> {
+  const datasetJson = await readFile(pointsDatasetPath, 'utf8');
+  return JSON.parse(datasetJson) as PointsDataset;
+}
+
+export async function generateTilesForDataset(
+  dataset: PointsDataset,
+  options: GenerateTilesOptions = {}
+): Promise<{
+  metadata: HeatmapMetadata;
+  paths: GenerateTilesPaths;
+}> {
+  const resolvedOutputDirectory = options.outputDirectory ?? outputDirectory;
+  const resolvedTilesDirectory = path.join(resolvedOutputDirectory, 'tiles');
+  const resolvedMetadataPath = path.join(resolvedOutputDirectory, 'metadata.json');
+  const logger = options.logger ?? (() => {});
 
   const expandedBounds = expandBoundsByMeters(dataset.regionBounds, REGION_PADDING_METERS);
   const center = getBoundsCenter(expandedBounds);
   const transparentTile = createBlankTileBuffer();
   const tileRanges: Record<string, TileRange> = {};
 
-  await mkdir(tilesDirectory, { recursive: true });
+  await mkdir(resolvedTilesDirectory, { recursive: true });
 
   for (let zoom = dataset.zoom.min; zoom <= dataset.zoom.max; zoom += 1) {
     const projectedPoints: ProjectedPointSample[] = dataset.points.map((point) => {
@@ -99,7 +124,7 @@ async function main(): Promise<void> {
 
     const tileRange = boundsToTileRange(expandedBounds, zoom, TILE_SIZE);
     tileRanges[String(zoom)] = tileRange;
-    const zoomDirectory = path.join(tilesDirectory, String(zoom));
+    const zoomDirectory = path.join(resolvedTilesDirectory, String(zoom));
     await mkdir(zoomDirectory, { recursive: true });
 
     const tileJobs: TileJob[] = [];
@@ -132,7 +157,7 @@ async function main(): Promise<void> {
       await writeTile(job.tilePath, renderedTile.rgba);
     });
 
-    console.log(`Zoom ${zoom}: wrote ${tileJobs.length} tiles.`);
+    logger(`Zoom ${zoom}: wrote ${tileJobs.length} tiles.`);
   }
 
   const metadata: HeatmapMetadata = {
@@ -167,11 +192,44 @@ async function main(): Promise<void> {
     tileRanges
   };
 
-  await writeFile(metadataPath, `${JSON.stringify(metadata, null, 2)}\n`, 'utf8');
-  console.log(`Wrote tile metadata to ${metadataPath}.`);
+  await writeFile(resolvedMetadataPath, `${JSON.stringify(metadata, null, 2)}\n`, 'utf8');
+
+  return {
+    metadata,
+    paths: {
+      metadataPath: resolvedMetadataPath,
+      tilesDirectory: resolvedTilesDirectory
+    }
+  };
 }
 
-main().catch((error) => {
-  console.error(error);
-  process.exitCode = 1;
-});
+export async function generateTilesFromDatasetPath(
+  pointsDatasetPath: string,
+  options: GenerateTilesOptions = {}
+): Promise<{
+  metadata: HeatmapMetadata;
+  paths: GenerateTilesPaths;
+}> {
+  const dataset = await loadPointsDataset(pointsDatasetPath);
+  return generateTilesForDataset(dataset, options);
+}
+
+function isExecutedDirectly(metaUrl: string): boolean {
+  const entryPoint = process.argv[1];
+  return Boolean(entryPoint) && pathToFileURL(path.resolve(entryPoint)).href === metaUrl;
+}
+
+async function main(): Promise<void> {
+  const result = await generateTilesFromDatasetPath(datasetPath, {
+    outputDirectory,
+    logger: (message) => console.log(message)
+  });
+  console.log(`Wrote tile metadata to ${result.paths.metadataPath}.`);
+}
+
+if (isExecutedDirectly(import.meta.url)) {
+  main().catch((error) => {
+    console.error(error);
+    process.exitCode = 1;
+  });
+}

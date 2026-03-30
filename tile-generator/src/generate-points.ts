@@ -1,6 +1,6 @@
 import { mkdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
-import { fileURLToPath } from 'node:url';
+import { fileURLToPath, pathToFileURL } from 'node:url';
 
 import { MAX_ZOOM, MIN_ZOOM } from './config.js';
 import { getPointBounds } from './geometry.js';
@@ -8,7 +8,8 @@ import {
   loadRawSourcePoints,
   loadScenarioConfig,
   loadScenarioPoints,
-  resolveInputPaths
+  resolveInputPaths,
+  type ResolvedInputPaths
 } from './input-loader.js';
 import { resolveValueScale } from './value-scale.js';
 import type { LatLngBounds, PointsDataset } from './types.js';
@@ -16,8 +17,15 @@ import type { LatLngBounds, PointsDataset } from './types.js';
 const currentDirectory = path.dirname(fileURLToPath(import.meta.url));
 const projectRoot = path.resolve(currentDirectory, '..');
 const outputDirectory = path.join(projectRoot, 'output');
-const canonicalDatasetPath = path.join(outputDirectory, 'points.json');
-const compatibilityDatasetPath = path.join(outputDirectory, 'sales.json');
+
+export interface DatasetWriteOptions {
+  outputDirectory?: string;
+}
+
+export interface DatasetWritePaths {
+  canonicalDatasetPath: string;
+  compatibilityDatasetPath: string;
+}
 
 function assertPointsInsideBounds(
   points: PointsDataset['points'],
@@ -37,8 +45,9 @@ function assertPointsInsideBounds(
   }
 }
 
-async function main(): Promise<void> {
-  const resolvedInput = resolveInputPaths(process.argv.slice(2));
+export async function buildPointsDataset(
+  resolvedInput: ResolvedInputPaths
+): Promise<PointsDataset> {
   const config = await loadScenarioConfig(resolvedInput.configPath);
   const points =
     resolvedInput.kind === 'raw'
@@ -58,7 +67,7 @@ async function main(): Promise<void> {
   const values = points.map((point) => point.value);
   const totalValue = values.reduce((sum, value) => sum + value, 0);
 
-  const dataset: PointsDataset = {
+  return {
     renderMode: config.renderMode ?? 'value',
     metric: config.metric,
     valueScale: resolveValueScale(config.valueScale, values),
@@ -77,22 +86,66 @@ async function main(): Promise<void> {
     },
     points
   };
+}
 
-  await mkdir(outputDirectory, { recursive: true });
+export async function writePointsDataset(
+  dataset: PointsDataset,
+  options: DatasetWriteOptions = {}
+): Promise<DatasetWritePaths> {
+  const resolvedOutputDirectory = options.outputDirectory ?? outputDirectory;
+  const canonicalDatasetPath = path.join(resolvedOutputDirectory, 'points.json');
+  const compatibilityDatasetPath = path.join(resolvedOutputDirectory, 'sales.json');
+
+  await mkdir(resolvedOutputDirectory, { recursive: true });
   const serializedDataset = `${JSON.stringify(dataset, null, 2)}\n`;
   await writeFile(canonicalDatasetPath, serializedDataset, 'utf8');
   await writeFile(compatibilityDatasetPath, serializedDataset, 'utf8');
 
+  return {
+    canonicalDatasetPath,
+    compatibilityDatasetPath
+  };
+}
+
+export async function generatePointsFromArgs(
+  args: string[],
+  options: DatasetWriteOptions = {}
+): Promise<{
+  dataset: PointsDataset;
+  paths: DatasetWritePaths;
+  resolvedInput: ResolvedInputPaths;
+}> {
+  const resolvedInput = resolveInputPaths(args);
+  const dataset = await buildPointsDataset(resolvedInput);
+  const paths = await writePointsDataset(dataset, options);
+
+  return {
+    dataset,
+    paths,
+    resolvedInput
+  };
+}
+
+function isExecutedDirectly(metaUrl: string): boolean {
+  const entryPoint = process.argv[1];
+  return Boolean(entryPoint) && pathToFileURL(path.resolve(entryPoint)).href === metaUrl;
+}
+
+async function main(): Promise<void> {
+  const { dataset, paths, resolvedInput } = await generatePointsFromArgs(process.argv.slice(2));
+
   console.log(
     `Loaded ${
       resolvedInput.kind === 'raw' ? resolvedInput.sourcePath : resolvedInput.coordsPath
-    } with ${resolvedInput.configPath} and wrote ${dataset.summary.count} points to ${canonicalDatasetPath} ` +
+    } with ${resolvedInput.configPath} and wrote ${dataset.summary.count} points to ${paths.canonicalDatasetPath} ` +
       `(dataset ${dataset.summary.minValue}-${dataset.summary.maxValue}, render scale ${dataset.valueScale.mode} ` +
       `${dataset.valueScale.min}-${dataset.valueScale.max} ${dataset.metric.unit}).`
   );
 }
 
-main().catch((error) => {
-  console.error(error);
-  process.exitCode = 1;
-});
+if (isExecutedDirectly(import.meta.url)) {
+  main().catch((error) => {
+    console.error(error);
+    process.exitCode = 1;
+  });
+}

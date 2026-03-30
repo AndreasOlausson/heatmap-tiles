@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "build": "tsc -p tsconfig.json",
+    "test": "node --import tsx --test test/*.test.ts",
     "generate:points": "node --import tsx src/generate-points.ts",
     "generate:tiles": "node --import tsx src/generate-tiles.ts",
     "generate": "npm run generate:points && npm run generate:tiles",
