@@ -69,6 +69,7 @@ export async function buildPointsDataset(
 
   return {
     renderMode: config.renderMode ?? 'value',
+    kernel: config.kernel,
     metric: config.metric,
     valueScale: resolveValueScale(config.valueScale, values),
     regionBounds:

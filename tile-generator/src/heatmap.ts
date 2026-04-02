@@ -9,7 +9,7 @@ import {
 } from './config.js';
 import { clamp } from './geometry.js';
 import { samplePalette } from './color-ramp.js';
-import type { PointSample, RenderMode } from './types.js';
+import type { KernelType, PointSample, RenderMode } from './types.js';
 
 export interface ProjectedPointSample {
   point: PointSample;
@@ -21,6 +21,7 @@ export interface RenderTileOptions {
   tileX: number;
   tileY: number;
   renderMode: RenderMode;
+  kernel: KernelType;
   valueScale: {
     min: number;
     max: number;
@@ -43,6 +44,29 @@ function gaussianBell(value: number, center: number, sigma: number): number {
   return Math.exp(-(delta * delta) / (2 * sigma * sigma));
 }
 
+export function resolveKernelWeight(
+  kernel: KernelType,
+  distanceSquared: number,
+  radiusPixels = GAUSSIAN_RADIUS_PIXELS,
+  sigmaPixels = GAUSSIAN_SIGMA_PIXELS
+): number {
+  const radiusSquared = radiusPixels * radiusPixels;
+
+  if (kernel === 'gaussian') {
+    if (distanceSquared > radiusSquared) {
+      return 0;
+    }
+
+    return Math.exp(-distanceSquared / (2 * sigmaPixels * sigmaPixels));
+  }
+
+  if (distanceSquared >= radiusSquared) {
+    return 0;
+  }
+
+  return Math.max(0, 1 - distanceSquared / radiusSquared);
+}
+
 export function renderHeatmapTile(
   projectedPoints: ProjectedPointSample[],
   options: RenderTileOptions
@@ -59,7 +83,6 @@ export function renderHeatmapTile(
   const maxX = originX + paddedSize;
   const maxY = originY + paddedSize;
 
-  const sigmaSquaredTimesTwo = 2 * GAUSSIAN_SIGMA_PIXELS * GAUSSIAN_SIGMA_PIXELS;
   const radiusSquared = GAUSSIAN_RADIUS_PIXELS * GAUSSIAN_RADIUS_PIXELS;
 
   for (const projectedPoint of projectedPoints) {
@@ -93,7 +116,11 @@ export function renderHeatmapTile(
           continue;
         }
 
-        const weight = Math.exp(-distanceSquared / sigmaSquaredTimesTwo);
+        const weight = resolveKernelWeight(options.kernel, distanceSquared);
+        if (weight === 0) {
+          continue;
+        }
+
         const rasterIndex = localY * paddedSize + localX;
         numerators[rasterIndex] += weight * projectedPoint.point.value;
         denominators[rasterIndex] += weight;

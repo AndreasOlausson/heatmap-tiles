@@ -50,6 +50,7 @@ test('buildPointsDataset defaults to value mode and derives bounds and zoom', as
   });
 
   assert.equal(dataset.renderMode, 'value');
+  assert.equal(dataset.kernel, 'gaussian');
   assert.deepEqual(dataset.regionBounds, {
     south: 58.4,
     west: 15.6,
@@ -150,6 +151,7 @@ test('writePointsDataset writes identical canonical and compatibility datasets',
   const outputDirectory = path.join(tempDirectory, 'output');
   const dataset: PointsDataset = {
     renderMode: 'value',
+    kernel: 'gaussian',
     metric: {
       key: 'value',
       label: 'Value',

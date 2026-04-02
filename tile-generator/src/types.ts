@@ -14,6 +14,7 @@ export interface MetricConfig {
 }
 
 export type RenderMode = 'value' | 'density';
+export type KernelType = 'gaussian' | 'epanechnikov';
 export type ValueScaleMode = 'manual' | 'percentile';
 export type RawImportAdapter = 'birds';
 
@@ -49,7 +50,8 @@ export interface ZoomRangeConfig {
 }
 
 export interface ScenarioConfig {
-  renderMode?: RenderMode;
+  renderMode: RenderMode;
+  kernel: KernelType;
   metric: MetricConfig;
   valueScale: ValueScaleInput;
   bounds?: LatLngBounds;
@@ -65,6 +67,7 @@ export interface PointSample {
 
 export interface PointsDataset {
   renderMode: RenderMode;
+  kernel: KernelType;
   metric: MetricConfig;
   valueScale: ResolvedValueScaleConfig;
   regionBounds: LatLngBounds;
@@ -105,6 +108,7 @@ export interface HeatmapMetadata {
   tilesPath: string;
   pointsPath: string;
   kernel: {
+    type: KernelType;
     sigmaPixels: number;
     radiusPixels: number;
     paddingPixels: number;

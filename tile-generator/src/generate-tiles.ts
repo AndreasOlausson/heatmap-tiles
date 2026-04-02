@@ -84,7 +84,11 @@ export async function loadPointsDataset(
   pointsDatasetPath: string
 ): Promise<PointsDataset> {
   const datasetJson = await readFile(pointsDatasetPath, 'utf8');
-  return JSON.parse(datasetJson) as PointsDataset;
+  const dataset = JSON.parse(datasetJson) as PointsDataset & { kernel?: PointsDataset['kernel'] };
+  return {
+    ...dataset,
+    kernel: dataset.kernel ?? 'gaussian'
+  };
 }
 
 export async function generateTilesForDataset(
@@ -146,6 +150,7 @@ export async function generateTilesForDataset(
         tileX: job.tileX,
         tileY: job.tileY,
         renderMode: dataset.renderMode,
+        kernel: dataset.kernel,
         valueScale: dataset.valueScale
       });
 
@@ -172,6 +177,7 @@ export async function generateTilesForDataset(
     tilesPath: TILES_PATH_TEMPLATE,
     pointsPath: 'points.json',
     kernel: {
+      type: dataset.kernel,
       sigmaPixels: GAUSSIAN_SIGMA_PIXELS,
       radiusPixels: GAUSSIAN_RADIUS_PIXELS,
       paddingPixels: TILE_PADDING_PIXELS

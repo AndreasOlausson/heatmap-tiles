@@ -1,6 +1,6 @@
 import { TILE_SIZE } from '../../src/config.ts';
 import type { ProjectedPointSample } from '../../src/heatmap.ts';
-import type { PointSample, PointsDataset } from '../../src/types.ts';
+import type { KernelType, PointSample, PointsDataset } from '../../src/types.ts';
 
 export function createProjectedPointSample(
   value: number,
@@ -20,7 +20,7 @@ export function createProjectedPointSample(
   };
 }
 
-export function createValueDataset(): PointsDataset {
+export function createValueDataset(kernel: KernelType = 'gaussian'): PointsDataset {
   const points: PointSample[] = [
     {
       id: 'point-0001',
@@ -38,6 +38,7 @@ export function createValueDataset(): PointsDataset {
 
   return {
     renderMode: 'value',
+    kernel,
     metric: {
       key: 'synthetic_value',
       label: 'Synthetic Value',
@@ -69,7 +70,7 @@ export function createValueDataset(): PointsDataset {
   };
 }
 
-export function createDensityDataset(): PointsDataset {
+export function createDensityDataset(kernel: KernelType = 'gaussian'): PointsDataset {
   const points: PointSample[] = [
     {
       id: 'point-0001',
@@ -93,6 +94,7 @@ export function createDensityDataset(): PointsDataset {
 
   return {
     renderMode: 'density',
+    kernel,
     metric: {
       key: 'synthetic_density',
       label: 'Synthetic Density',

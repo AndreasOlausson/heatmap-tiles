@@ -4,6 +4,7 @@ import { fileURLToPath } from 'node:url';
 
 import type {
   LatLngBounds,
+  KernelType,
   LngLat,
   MetricConfig,
   PointSample,
@@ -164,6 +165,19 @@ function parseZoom(value: unknown): ZoomRangeConfig | undefined {
     min: zoom.min,
     max: zoom.max
   };
+}
+
+function parseKernel(value: unknown): KernelType {
+  if (value === undefined) {
+    return 'gaussian';
+  }
+
+  assert(
+    value === 'gaussian' || value === 'epanechnikov',
+    'config.kernel must be "gaussian" or "epanechnikov" when provided.'
+  );
+
+  return value;
 }
 
 function parseLngLat(record: Record<string, unknown>, label: string): LngLat {
@@ -341,6 +355,7 @@ export async function loadScenarioConfig(configPath: string): Promise<ScenarioCo
 
   return {
     renderMode,
+    kernel: parseKernel(parsed.kernel),
     metric: parseMetric(parsed.metric),
     valueScale: parseValueScale(parsed.valueScale),
     bounds: parseBounds(parsed.bounds),
